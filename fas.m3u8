@@ -1,0 +1,634 @@
+#EXTM3U
+# Backup-enabled playlist - if primary fails, try Backup 2/3
+#EXTINF:-1 tvg-id="4MUSIC" tvg-name="4Music" tvg-logo="https://i.imgur.com/4mYkL0b.png" group-title="General",4Music
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://itthls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="247BOXTV" tvg-name="247 Boxtv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",247 Boxtv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AFNTV" tvg-name="Afn Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Afn Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 tvg-id="AFRAFILM" tvg-name="Afra Film" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Afra Film
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ARAXTV" tvg-name="Arax Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Arax Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://araxhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ARKOTV" tvg-name="Arko Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Arko Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://arkhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ARVANTV" tvg-name="Arvan Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Arvan Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://arvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AVAFAMILY" tvg-name="Ava Family" tvg-logo="https://i.imgur.com/5LRiF6v.png" group-title="General",Ava Family
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AVAFAMILY" tvg-name="Ava Family (Backup 2)" tvg-logo="https://i.imgur.com/5LRiF6v.png" group-title="General",Ava Family (Backup 2)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app:8443/AVAFamily/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="AVASERIES" tvg-name="Ava Series" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Ava Series
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AVANGTV" tvg-name="Avang Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Avang Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BBCPERSIAN" tvg-name="Bbc Persian" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",Bbc Persian
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://gg.hls2.xyz/live/BBC-Farsi/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCPERSIAN" tvg-name="Bbc Persian (Backup 2)" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",Bbc Persian (Backup 2)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="CHANNELONE" tvg-name="Channel One" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Channel One
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app:8443/ChannelOne/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="CAFEFILM" tvg-name="Cafe Film" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Cafe Film
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://cafefhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CLASSICTV" tvg-name="Classic Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Classic Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DIDANIHATV" tvg-name="Didaniha Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Didaniha Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://932y493eljv8-hls-live.5centscdn.com/did/a5a78758611d40a8beef13f803dd816b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="DATISTV" tvg-name="Datis Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Datis Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://dathls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DEJTV" tvg-name="Dej Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Dej Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://rdejhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DIDGAHTV" tvg-name="Didgah Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Didgah Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
+#EXTINF:-1 tvg-id="EKRANMOVIES" tvg-name="Ekran Movies" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Ekran Movies
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="FARSITV" tvg-name="Farsi Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Farsi Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://farsitvlive.b-cdn.net/farsitvlive/farsitvlive.m3u8
+#EXTINF:-1 tvg-id="FX1" tvg-name="Fx1" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Fx1
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="FX2" tvg-name="Fx2" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Fx2
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GEM24B" tvg-name="Gem 24B" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem 24B
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMBOOLYWOOD" tvg-name="Gem Boolywood" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Boolywood
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMCLASSIC" tvg-name="Gem Classic" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Classic
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMCOMEDY" tvg-name="Gem Comedy" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Comedy
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMDRAMA" tvg-name="Gem Drama" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Drama
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMENTERTAINMENT" tvg-name="Gem Entertainment" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Entertainment
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMFIT" tvg-name="Gem Fit" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Fit
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMFILM" tvg-name="Gem Film" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Film
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMFOOD" tvg-name="Gem Food" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Food
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMJUNIOR" tvg-name="Gem Junior" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Junior
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMKIDS" tvg-name="Gem Kids" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Kids
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMLIFE" tvg-name="Gem Life" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Life
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMMIFA" tvg-name="Gem Mifa" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Mifa
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMONYX" tvg-name="Gem Onyx" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Onyx
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMNATURE" tvg-name="Gem Nature" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Nature
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMPIXEL" tvg-name="Gem Pixel" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Pixel
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
+#EXTINF:-1 tvg-id="GEMPIXEL" tvg-name="Gem Pixel (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Pixel (Backup 2)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gempixel/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMRIVER" tvg-name="Gem River" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem River
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMRIVERPLUSE" tvg-name="Gem River Pluse" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem River Pluse
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMRUBIX" tvg-name="Gem Rubix" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Rubix
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMROBIXPLUSE" tvg-name="Gem Robix Pluse" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Robix Pluse
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMSERIES" tvg-name="Gem Series" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Series
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMSERIES" tvg-name="Gem Series (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Series (Backup 2)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMTV" tvg-name="Gem Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMTV" tvg-name="Gem Tv (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Tv (Backup 2)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app:8443/gemb/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GEMTVPLUSE" tvg-name="Gem Tv Pluse" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Tv Pluse
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GOLDSTAR" tvg-name="Gold Star" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Gold Star
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://moviethls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GRANDCINEMA" tvg-name="Grand Cinema" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Grand Cinema
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="HOODHOODFARSITV" tvg-name="Hood Hood Farsi Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Hood Hood Farsi Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://northtelecom.b-cdn.net/hodhodtv.m3u8
+#EXTINF:-1 tvg-id="ICCPLUS" tvg-name="Icc Plus" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Icc Plus
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ICNET2" tvg-name="Icnet 2" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Icnet 2
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://icnet2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ICNET3" tvg-name="Icnet 3" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Icnet 3
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ic3hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="IRANARYAEE" tvg-name="Iran Aryaee" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Iran Aryaee
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+http://iranaryaee.icdndhcp.com/iranearyaeesd/index.m3u8
+#EXTINF:-1 tvg-id="IRANFARDATV" tvg-name="Iranfarda Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Iranfarda Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://hls.iranfarda.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="IRANINDEPENDENT" tvg-name="Iran Independent" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Iran Independent
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/hls/iranindtv/index.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="IRANINTERNATIONAL" tvg-name="Iran International" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Iran International
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-id="IRANNATIONALREVOLUTION" tvg-name="Iran National Revolution" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Iran National Revolution
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://hls.irannrtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="IRANPRESS" tvg-name="Iran Press" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Iran Press
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 tvg-id="IRANTVISRAEL" tvg-name="Iran Tv Israel" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Iran Tv Israel
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://streaminglive.co.il:3730/live/raniamranilive.m3u8
+#EXTINF:-1 tvg-id="ITC?" tvg-name="Itc?" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Itc?
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/9b5be6d9ebdfce62a3eeb49a43cb1479/manifest/video.m3u8
+#EXTINF:-1 tvg-id="ISRAELPARSTV" tvg-name="Israel Pars Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Israel Pars Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://live.pars-israel.com/tmp_hls/iptv/index.m3u8
+#EXTINF:-1 tvg-id="ITCTV" tvg-name="Itc Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Itc Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/9b5be6d9ebdfce62a3eeb49a43cb1479/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fitctv.ca
+#EXTINF:-1 tvg-id="ITNTV" tvg-name="Itn Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Itn Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KALEMEHTV" tvg-name="Kalemeh Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Kalemeh Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://klmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KANALJADID" tvg-name="Kanal Jadid" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Kanal Jadid
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://kjhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KHABARBINTV" tvg-name="Khabarbin Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Khabarbin Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://khbhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KHATEREHTV" tvg-name="Khatereh Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Khatereh Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://gg.hls2.xyz/live/Khatereh%20TV/playlist.m3u8
+#EXTINF:-1 tvg-id="KHATEREHTV" tvg-name="Khatereh Tv (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Khatereh Tv (Backup 2)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
+#EXTINF:-1 tvg-id="MAAHTV" tvg-name="Maah Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Maah Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MBCPERSIA" tvg-name="Mbc Persia" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Mbc Persia
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://hls.mbcpersia.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MELLIGTV" tvg-name="Mellig Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Mellig Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://mellihls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MTC" tvg-name="Mtc" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Mtc
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NOVINTV" tvg-name="Novin Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Novin Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://stream.novin.live/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="OMIDIRAN" tvg-name="Omid Iran" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Omid Iran
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="OXIRTV" tvg-name="Oxir Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Oxir Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PARSTV" tvg-name="Pars Tv" tvg-logo="https://i.imgur.com/RQ5DzEE.png" group-title="General",Pars Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PAYAMJAVAN" tvg-name="Payam Javan" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Payam Javan
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PERSIANACINEMA" tvg-name="Persiana Cinema" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Cinema
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANACOMEDY" tvg-name="Persiana Comedy" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Comedy
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANAFAMILY" tvg-name="Persiana Family" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Family
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANAFIGHT" tvg-name="Persiana Fight" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Fight
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANAIRANIAN" tvg-name="Persiana Iranian" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Persiana Iranian
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANAJUNIOR" tvg-name="Persiana Junior" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Junior
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANAKOREA" tvg-name="Persiana Korea" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Korea
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANAMEDICAL" tvg-name="Persiana Medical" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Medical
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANAMUSIC" tvg-name="Persiana Music" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Music
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANANOSTALGIA" tvg-name="Persiana Nostalgia" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Nostalgia
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANAONE" tvg-name="Persiana One" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana One
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANAPLUS" tvg-name="Persiana Plus" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Plus
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANARAP" tvg-name="Persiana Rap" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Rap
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANAREALITY" tvg-name="Persiana Reality" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Reality
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://twohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANASCIENCE" tvg-name="Persiana Science" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Science
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANASERIES" tvg-name="Persiana Series" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Series
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANASONATI" tvg-name="Persiana Sonati" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Sonati
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANASPORT" tvg-name="Persiana Sport" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Sport
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8
+#EXTINF:-1 tvg-id="PERSIANATURKIE" tvg-name="Persiana Turkie" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Turkie
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PERSIANATWO" tvg-name="Persiana Two" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Two
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://twohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PMC" tvg-name="Pmc" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Pmc
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://pmchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PMCROYAL" tvg-name="Pmc Royal" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Pmc Royal
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://pmcrohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PRESSTV" tvg-name="Press Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Press Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1 tvg-id="PROJECTLEON" tvg-name="Project Leon" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Project Leon
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://pleonhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PULSEMEDIA" tvg-name="Pulse Media" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Pulse Media
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://pulsehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RADIOFARDA" tvg-name="Radio Farda" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Radio Farda
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist.m3u8
+#EXTINF:-1 tvg-id="RAVITV" tvg-name="Ravi Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Ravi Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://hls.ravitv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RJTV" tvg-name="Rj Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Rj Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://rjtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ROMANTICOTV" tvg-name="Romantico Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Romantico Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://live.livestreamtv.ca/romanticotvshow/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SETAREHTV" tvg-name="Setareh Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Setareh Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://setarehhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SIMAYEAZADI" tvg-name="Simaye Azadi" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Simaye Azadi
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://content.jwplatform.com/players/w8eyzkKQ-GSMgUQX2.html
+#EXTINF:-1 tvg-id="SL1" tvg-name="Sl1" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Sl1
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SL2" tvg-name="Sl2" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Sl2
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="T2AMERICA" tvg-name="T2 America" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",T2 America
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/T2America/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="T2INTERNATIONAL" tvg-name="T2 International" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",T2 International
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/T2International/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="TAPESHTV" tvg-name="Tapesh Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Tapesh Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 tvg-id="TAPESHIRAN" tvg-name="Tapesh Iran" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Tapesh Iran
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+#EXTINF:-1 tvg-id="TINTV" tvg-name="Tin Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Tin Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
+#EXTINF:-1 tvg-id="TINTV" tvg-name="Tin Tv (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Tin Tv (Backup 2)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://tgn2.bozztv.com/tintv/tintv/index.m3u8
+#EXTINF:-1 tvg-id="TMTV" tvg-name="Tm Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Tm Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://hls.tmtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="T2MOVIES" tvg-name="T2 Movies" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",T2 Movies
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="T2TV" tvg-name="T2 Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",T2 Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TBNNEJATTV" tvg-name="Tbn Nejat Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Tbn Nejat Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://hls.nejat.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="VOAPERSIAN" tvg-name="Voa Persian" tvg-logo="https://i.imgur.com/TmqComb.png" group-title="News",Voa Persian
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:-1 tvg-id="WOMANTV" tvg-name="Woman Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Woman Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://wmtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="YOUTIMETV" tvg-name="Youtime Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Youtime Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://live.yourtime.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ZEDTV" tvg-name="Zed Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Zed Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://zedhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="IRIB1" tvg-name="Irib 1" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 1
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://telewebion.ir/embed/live/tv1
+#EXTINF:-1 tvg-id="IRIB1" tvg-name="Irib 1 (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 1 (Backup 2)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://gg.hls2.xyz/live2/irib-tv1/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB1PLUS" tvg-name="Irib 1 Plus" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 1 Plus
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://telewebion.ir/embed/live/tv1plus
+#EXTINF:-1 tvg-id="IRIB2" tvg-name="Irib 2" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 2
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://telewebion.ir/embed/live/tv2
+#EXTINF:-1 tvg-id="IRIB2" tvg-name="Irib 2 (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 2 (Backup 2)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://gg.hls2.xyz/live2/irib-tv2/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB3" tvg-name="Irib 3" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 3
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="IRIB3" tvg-name="Irib 3 (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 3 (Backup 2)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://telewebion.ir/embed/live/tv3
+#EXTINF:-1 tvg-id="IRIB3" tvg-name="Irib 3 (Backup 3)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 3 (Backup 3)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://gg.hls2.xyz/live2/tv3/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB4" tvg-name="Irib 4" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 4
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://telewebion.ir/embed/live/tv4
+#EXTINF:-1 tvg-id="IRIBTEHRAN" tvg-name="Irib Tehran" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib Tehran
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://telewebion.ir/embed/live/tehran
+#EXTINF:-1 tvg-id="IRINN" tvg-name="Irinn" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Irinn
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://gg.hls2.xyz/live2/irib-khabar/playlist.m3u8
+#EXTINF:-1 tvg-id="IRINN" tvg-name="Irinn (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Irinn (Backup 2)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://telewebion.ir/embed/live/irinn
+#EXTINF:-1 tvg-id="IRINN2" tvg-name="Irinn 2" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Irinn 2
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://telewebion.ir/embed/live/irinn2
+#EXTINF:-1 tvg-id="AMOUZESH" tvg-name="Amouzesh" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Amouzesh
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://telewebion.ir/embed/live/amouzesh
+#EXTINF:-1 tvg-id="IFILM" tvg-name="Ifilm" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Ifilm
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://live.presstv.ir/hls/ifilmfa.m3u8
+#EXTINF:-1 tvg-id="IFILM2" tvg-name="Ifilm 2" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Ifilm 2
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://live.presstv.ir/hls/ifilm2.m3u8
+#EXTINF:-1 tvg-id="IFILMARABIC" tvg-name="Ifilm Arabic" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Ifilm Arabic
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://live.presstv.ir/hls/ifilmar.m3u8
+#EXTINF:-1 tvg-id="IFILMENGLISH" tvg-name="Ifilm English" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Ifilm English
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://live.presstv.ir/hls/ifilmen.m3u8
+#EXTINF:-1 tvg-id="IRNA" tvg-name="Irna" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Irna
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://tv.irna.ir/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="MOSTANAD" tvg-name="Mostanad" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Mostanad
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://telewebion.ir/embed/live/mostanad
+#EXTINF:-1 tvg-id="NAMAYESH" tvg-name="Namayesh" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Namayesh
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://telewebion.ir/embed/live/namayesh
+#EXTINF:-1 tvg-id="NASIM" tvg-name="Nasim" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Nasim
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://telewebion.ir/embed/live/nasim
+#EXTINF:-1 tvg-id="NASIM" tvg-name="Nasim (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Nasim (Backup 2)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://gg.hls2.xyz/live/irib-nasim/chunks.m3u8
+#EXTINF:-1 tvg-id="OFOGH" tvg-name="Ofogh" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Ofogh
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://www.parsatv.com/m/name=Ofogh#irib
+#EXTINF:-1 tvg-id="OMID" tvg-name="Omid" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Omid
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://telewebion.ir/embed/live/omid
+#EXTINF:-1 tvg-id="POOYA" tvg-name="Pooya" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Pooya
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://telewebion.ir/embed/live/pooya
+#EXTINF:-1 tvg-id="ROYA" tvg-name="Roya" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Roya
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://telewebion.ir/embed/live/iribu
+#EXTINF:-1 tvg-id="SALAMAT" tvg-name="Salamat" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Salamat
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://telewebion.ir/embed/live/salamat
+#EXTINF:-1 tvg-id="TAMASHA" tvg-name="Tamasha" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Tamasha
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://telewebion.ir/embed/live/hdtest
+#EXTINF:-1 tvg-id="VARZESH" tvg-name="Varzesh" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Varzesh
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://gg.hls2.xyz/live2/irib-varzesh/playlist.m3u8
