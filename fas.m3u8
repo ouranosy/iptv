@@ -1,4 +1,4 @@
-#EXTM3U
+
 # Backup-enabled playlist - if primary fails, try Backup 2/3
 #EXTINF:-1 tvg-id="4MUSIC" tvg-name="4Music" tvg-logo="https://i.imgur.com/4mYkL0b.png" group-title="General",4Music
 #EXTVLCOPT:network-caching=5000
