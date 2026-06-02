@@ -1,6 +1,14 @@
-
+#EXTM3U
 # Backup-enabled playlist - if primary fails, try Backup 2/3
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="4UFAMILY" tvg-name="4U Family" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",4U Family
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://familyhls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4MUSIC" tvg-name="4Music" tvg-logo="https://i.imgur.com/4mYkL0b.png" group-title="General",4Music
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-id="4UTV" tvg-name="4U TV" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",4U TV
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://itthls.wns.live/hls/stream.m3u8
@@ -44,11 +52,11 @@ https://avaserieshls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="BBCPERSIAN" tvg-name="Bbc Persian" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",Bbc Persian
+#EXTINF:-1 tvg-id="BBCPERSIAN" tvg-name="BBC Persian (Official HD)" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian (Official HD)
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://gg.hls2.xyz/live/BBC-Farsi/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCPERSIAN" tvg-name="Bbc Persian (Backup 2)" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",Bbc Persian (Backup 2)
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="BBCPERSIAN" tvg-name="BBC Persian (Official Mobile)" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian (Official Mobile)
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8
@@ -212,6 +220,10 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://northtelecom.b-cdn.net/hodhodtv.m3u8
+#EXTINF:-1 tvg-id="HOMEPLUS" tvg-name="Home Plus" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Home Plus
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ICCPLUS" tvg-name="Icc Plus" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Icc Plus
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -280,18 +292,14 @@ https://kjhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://khbhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KHATEREHTV" tvg-name="Khatereh Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Khatereh Tv
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://gg.hls2.xyz/live/Khatereh%20TV/playlist.m3u8
-#EXTINF:-1 tvg-id="KHATEREHTV" tvg-name="Khatereh Tv (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Khatereh Tv (Backup 2)
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
 #EXTINF:-1 tvg-id="MAAHTV" tvg-name="Maah Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Maah Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MAAWJ" tvg-name="Maawj" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Maawj
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://maawjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MBCPERSIA" tvg-name="Mbc Persia" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Mbc Persia
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -304,6 +312,10 @@ https://mellihls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NETTV" tvg-name="Net TV" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Net TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://nethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NOVINTV" tvg-name="Novin Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Novin Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -444,10 +456,6 @@ https://live.livestreamtv.ca/romanticotvshow/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://setarehhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SIMAYEAZADI" tvg-name="Simaye Azadi" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Simaye Azadi
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://content.jwplatform.com/players/w8eyzkKQ-GSMgUQX2.html
 #EXTINF:-1 tvg-id="SL1" tvg-name="Sl1" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Sl1
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -512,62 +520,10 @@ https://live.yourtime.tv/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://zedhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="IRIB1" tvg-name="Irib 1" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 1
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://telewebion.ir/embed/live/tv1
-#EXTINF:-1 tvg-id="IRIB1" tvg-name="Irib 1 (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 1 (Backup 2)
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://gg.hls2.xyz/live2/irib-tv1/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB1PLUS" tvg-name="Irib 1 Plus" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 1 Plus
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://telewebion.ir/embed/live/tv1plus
-#EXTINF:-1 tvg-id="IRIB2" tvg-name="Irib 2" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 2
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://telewebion.ir/embed/live/tv2
-#EXTINF:-1 tvg-id="IRIB2" tvg-name="Irib 2 (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 2 (Backup 2)
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://gg.hls2.xyz/live2/irib-tv2/playlist.m3u8
 #EXTINF:-1 tvg-id="IRIB3" tvg-name="Irib 3" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 3
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="IRIB3" tvg-name="Irib 3 (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 3 (Backup 2)
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://telewebion.ir/embed/live/tv3
-#EXTINF:-1 tvg-id="IRIB3" tvg-name="Irib 3 (Backup 3)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 3 (Backup 3)
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://gg.hls2.xyz/live2/tv3/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB4" tvg-name="Irib 4" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 4
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://telewebion.ir/embed/live/tv4
-#EXTINF:-1 tvg-id="IRIBTEHRAN" tvg-name="Irib Tehran" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib Tehran
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://telewebion.ir/embed/live/tehran
-#EXTINF:-1 tvg-id="IRINN" tvg-name="Irinn" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Irinn
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://gg.hls2.xyz/live2/irib-khabar/playlist.m3u8
-#EXTINF:-1 tvg-id="IRINN" tvg-name="Irinn (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Irinn (Backup 2)
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://telewebion.ir/embed/live/irinn
-#EXTINF:-1 tvg-id="IRINN2" tvg-name="Irinn 2" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Irinn 2
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://telewebion.ir/embed/live/irinn2
-#EXTINF:-1 tvg-id="AMOUZESH" tvg-name="Amouzesh" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Amouzesh
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://telewebion.ir/embed/live/amouzesh
 #EXTINF:-1 tvg-id="IFILM" tvg-name="Ifilm" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Ifilm
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -584,51 +540,11 @@ https://live.presstv.ir/hls/ifilmar.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://live.presstv.ir/hls/ifilmen.m3u8
-#EXTINF:-1 tvg-id="IRNA" tvg-name="Irna" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Irna
+#EXTINF:-1 tvg-id="OFOGH" tvg-name="Ofogh" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Ofogh
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://tv.irna.ir/live/stream/index.m3u8
-#EXTINF:-1 tvg-id="MOSTANAD" tvg-name="Mostanad" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Mostanad
+https://ib.abntv.live/hls/ofogh.m3u8
+#EXTINF:-1 tvg-id="IBTV2" tvg-name="IB TV 2" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",IB TV 2
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://telewebion.ir/embed/live/mostanad
-#EXTINF:-1 tvg-id="NAMAYESH" tvg-name="Namayesh" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Namayesh
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://telewebion.ir/embed/live/namayesh
-#EXTINF:-1 tvg-id="NASIM" tvg-name="Nasim" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Nasim
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://telewebion.ir/embed/live/nasim
-#EXTINF:-1 tvg-id="NASIM" tvg-name="Nasim (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Nasim (Backup 2)
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://gg.hls2.xyz/live/irib-nasim/chunks.m3u8
-#EXTINF:-1 tvg-id="OFOGH" tvg-name="Ofogh" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Ofogh
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://www.parsatv.com/m/name=Ofogh#irib
-#EXTINF:-1 tvg-id="OMID" tvg-name="Omid" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Omid
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://telewebion.ir/embed/live/omid
-#EXTINF:-1 tvg-id="POOYA" tvg-name="Pooya" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Pooya
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://telewebion.ir/embed/live/pooya
-#EXTINF:-1 tvg-id="ROYA" tvg-name="Roya" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Roya
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://telewebion.ir/embed/live/iribu
-#EXTINF:-1 tvg-id="SALAMAT" tvg-name="Salamat" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Salamat
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://telewebion.ir/embed/live/salamat
-#EXTINF:-1 tvg-id="TAMASHA" tvg-name="Tamasha" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Tamasha
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://telewebion.ir/embed/live/hdtest
-#EXTINF:-1 tvg-id="VARZESH" tvg-name="Varzesh" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Varzesh
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://gg.hls2.xyz/live2/irib-varzesh/playlist.m3u8
+https://ib.abntv.live/hls/ibtv2.m3u8
