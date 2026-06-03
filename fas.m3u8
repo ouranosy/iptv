@@ -585,19 +585,6 @@ https://ib.abntv.live/hls/ibtv2.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="IRIB4" tvg-name="IRIB 4 (ATC)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",IRIB 4 (ATC)
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://atc.hopto.org/iran-IRIB-4-web/index.fmp4.m3u8?token=0832c8732e5a72c2e12951ef2ed8a4e3f283b7be-ed54becbcab09b5a59bdd3a44b298fe8-1780505727-1780494927
-#EXTINF:-1 tvg-id="IRIB5" tvg-name="IRIB 5 (ATC)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",IRIB 5 (ATC)
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://atc.hopto.org/iran-IRIB-5-web/index.fmp4.m3u8?token=6d906c2aa8171dd64ab49e55ead73b1b4ffe3e76-918a8be85d8118258176ce40431e7724-1780505650-1780494850
-#EXTINF:-1 tvg-id="VARZESH" tvg-name="IRIB Varzesh (ATC)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Sports",IRIB Varzesh (ATC)
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://atc.hopto.org/iran-IRIB-Varzesh-web/index.fmp4.m3u8?token=59e57d17b4610146573db75c4b114f753819e916-fc9ad52320f05ea7b44857d668b6157b-1780505586-1780494786
-
 
 
 
