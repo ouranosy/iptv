@@ -48,6 +48,10 @@ https://ca-rt.onetv.app:8443/AVAFamily/index-0.m3u8?token=onetv202
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AVASERIES" tvg-name="Ava Series (Bozztv)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Series",Ava Series (Bozztv)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://tgn.bozztv.com/gin-dvrfl05/gin-avaseries/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjYgMToxNjozMyBQTSZoYXNoX3ZhbHVlPU83T2dOK0hTSGtITW5laUttUkpqT2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNQ==
 #EXTINF:-1 tvg-id="AVANGTV" tvg-name="Avang Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Avang Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -124,6 +128,11 @@ https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202
+https://sassantv.com/proxy.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive2%2Firib-tv1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="GEMDRAMAPLUS" tvg-name="GEM Drama Plus" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Series",GEM Drama Plus
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMENTERTAINMENT" tvg-name="Gem Entertainment" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Entertainment
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -216,6 +225,10 @@ https://moviethls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GRANDCINEMA" tvg-name="Grand Cinema" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Movies",Grand Cinema
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/hls/GrandCinema/index.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="HOODHOODFARSITV" tvg-name="Hood Hood Farsi Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Hood Hood Farsi Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -292,6 +305,10 @@ https://kjhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://khbhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KHANEHONAR" tvg-name="Khane Honarmandan" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Culture",Khane Honarmandan
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/Khanehonarmandan/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="MAAHTV" tvg-name="Maah Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Maah Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -304,6 +321,10 @@ https://maawjhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://hls.mbcpersia.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="METAFILM" tvg-name="Metafilm" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Movies",Metafilm
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MELLIGTV" tvg-name="Mellig Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Mellig Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -456,6 +477,10 @@ https://live.livestreamtv.ca/romanticotvshow/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://setarehhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SIMAYEAZADI" tvg-name="Simaye Azadi (Alt)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Simaye Azadi (Alt)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
 #EXTINF:-1 tvg-id="SL1" tvg-name="Sl1" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Sl1
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -520,10 +545,6 @@ https://live.yourtime.tv/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://zedhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="IRIB3" tvg-name="Irib 3" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 3
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="IFILM" tvg-name="Ifilm" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Ifilm
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -544,7 +565,41 @@ https://live.presstv.ir/hls/ifilmen.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ib.abntv.live/hls/ofogh.m3u8
+#EXTINF:-1 tvg-id="NASIM" tvg-name="IRIB Nasim (Bozztv)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",IRIB Nasim (Bozztv)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://tgn.bozztv.com/gin-dvrfl05/gin-iribnasim/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjYgMToxMTozOSBQTSZoYXNoX3ZhbHVlPXZ6Zk9tMzNuakhjZUtsQUhvVnRQQnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNQ==
+#EXTINF:-1 tvg-id="IRIB1" tvg-name="IRIB 1 (ATC)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",IRIB 1 (ATC)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://atc.hopto.org/iran-IRIB-1-web/index.fmp4.m3u8?token=cf330e1b88093088991c0235665ae91700a784d0-a60e9dd0d38c9566d1114a9a3e0a11c1-1780505500-1780494700
+#EXTINF:-1 tvg-id="IRIB1" tvg-name="IRIB TV1 (Sassan Proxy)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",IRIB TV1 (Sassan Proxy)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://sassantv.com/proxy.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive2%2Firib-tv1%2Fplaylist.m3u8
 #EXTINF:-1 tvg-id="IBTV2" tvg-name="IB TV 2" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",IB TV 2
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ib.abntv.live/hls/ibtv2.m3u8
+#EXTINF:-1 tvg-id="IRIB3" tvg-name="Irib 3" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 3
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="IRIB4" tvg-name="IRIB 4 (ATC)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",IRIB 4 (ATC)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://atc.hopto.org/iran-IRIB-4-web/index.fmp4.m3u8?token=0832c8732e5a72c2e12951ef2ed8a4e3f283b7be-ed54becbcab09b5a59bdd3a44b298fe8-1780505727-1780494927
+#EXTINF:-1 tvg-id="IRIB5" tvg-name="IRIB 5 (ATC)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",IRIB 5 (ATC)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://atc.hopto.org/iran-IRIB-5-web/index.fmp4.m3u8?token=6d906c2aa8171dd64ab49e55ead73b1b4ffe3e76-918a8be85d8118258176ce40431e7724-1780505650-1780494850
+#EXTINF:-1 tvg-id="VARZESH" tvg-name="IRIB Varzesh (ATC)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Sports",IRIB Varzesh (ATC)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://atc.hopto.org/iran-IRIB-Varzesh-web/index.fmp4.m3u8?token=59e57d17b4610146573db75c4b114f753819e916-fc9ad52320f05ea7b44857d668b6157b-1780505586-1780494786
+
+
+
+
+
+
