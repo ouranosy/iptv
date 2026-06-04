@@ -100,7 +100,6 @@ https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://farsitvlive.b-cdn.net/farsitvlive/farsitvlive.m3u8
-#EXTINF:-1 tvg-name="Film 1" tvg-logo="https://raw.githubusercontent.com/mohammad74/Iran-IPTV/master/logos/movie.png" group-title="Movies",Film 1 https://namakade.com/livetvs/Film%201
 #EXTINF:-1 tvg-id="FX1" tvg-name="Fx1" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Fx1
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -570,8 +569,6 @@ https://ib.abntv.live/hls/ofogh.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://tgn.bozztv.com/gin-dvrfl05/gin-iribnasim/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjYgMToxMTozOSBQTSZoYXNoX3ZhbHVlPXZ6Zk9tMzNuakhjZUtsQUhvVnRQQnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNQ==
-#EXTINF:-1 tvg-name="Namayesh" tvg-logo="https://raw.githubusercontent.com/mohammad74/Iran-IPTV/master/logos/namayesh.png" group-title="Movies",شبکه نمایش https://live-aburayhan1106.telewebion.ir/ek/namayesh/live/480p/index.m3u8
-#EXTINF:-1 tvg-name="Varzesh" tvg-logo="https://raw.githubusercontent.com/mohammad74/Iran-IPTV/master/logos/varzesh.png" group-title="Sports",شبکه ورزش https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IRIB1" tvg-name="IRIB 1 (ATC)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",IRIB 1 (ATC)
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
