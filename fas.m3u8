@@ -7,10 +7,6 @@ https://familyhls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4MUSIC" tvg-name="4Music" tvg-logo="https://i.imgur.com/4mYkL0b.png" group-title="General",4Music
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="4UTV" tvg-name="4U TV" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",4U TV
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
 https://itthls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="247BOXTV" tvg-name="247 Boxtv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",247 Boxtv
 #EXTVLCOPT:network-caching=5000
@@ -433,6 +429,10 @@ https://turkhls.persiana.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://twohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PIROOZ" tvg-name="Pirooz TV" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Pirooz TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://piroozhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PMC" tvg-name="Pmc" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Pmc
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
