@@ -100,10 +100,6 @@ https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://farsitvlive.b-cdn.net/farsitvlive/farsitvlive.m3u8
-#EXTINF:-1 tvg-id="FILM1" tvg-name="Film 1" tvg-logo="https://i.imgur.com/3Q6lG9b.png" group-title="Movies",Film 1
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://namakade.com/livetvs/Film%201
 #EXTINF:-1 tvg-id="FX1" tvg-name="Fx1" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Fx1
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -481,7 +477,7 @@ https://live.livestreamtv.ca/romanticotvshow/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://setarehhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SIMAYEAZADI" tvg-name="Simaye Azadi (Alt)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Simaye Azadi (Alt)
+#EXTINF:-1 tvg-id="SIMAYEAZADI" tvg-name="Khatereh (Alt)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Khatereh (Alt)
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
