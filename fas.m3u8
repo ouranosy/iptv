@@ -56,14 +56,18 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="CHANNELONE" tvg-name="Channel One" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Channel One
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app:8443/ChannelOne/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="CAFEFILM" tvg-name="Cafe Film" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Cafe Film
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://cafefhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CHANNELONE" tvg-name="Channel One" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Channel One
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app:8443/ChannelOne/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GRANDCINEMA" tvg-name="Grand Cinema" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Cinex
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CLASSICTV" tvg-name="Classic Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Classic Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -213,10 +217,6 @@ https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://moviethls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="GRANDCINEMA" tvg-name="Grand Cinema" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Grand Cinema
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GRANDCINEMA" tvg-name="Grand Cinema" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Movies",Grand Cinema
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
