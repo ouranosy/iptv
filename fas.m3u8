@@ -569,10 +569,6 @@ https://ib.abntv.live/hls/ofogh.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://tgn.bozztv.com/gin-dvrfl05/gin-iribnasim/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjYgMToxMTozOSBQTSZoYXNoX3ZhbHVlPXZ6Zk9tMzNuakhjZUtsQUhvVnRQQnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNQ==
-#EXTINF:-1 tvg-id="IRIB1" tvg-name="IRIB 1 (ATC)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",IRIB 1 (ATC)
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://atc.hopto.org/iran-IRIB-1-web/index.fmp4.m3u8?token=cf330e1b88093088991c0235665ae91700a784d0-a60e9dd0d38c9566d1114a9a3e0a11c1-1780505500-1780494700
 #EXTINF:-1 tvg-id="IRIB1" tvg-name="IRIB TV1 (Sassan Proxy)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",IRIB TV1 (Sassan Proxy)
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -585,7 +581,6 @@ https://ib.abntv.live/hls/ibtv2.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-name="IRIB Khabar" tvg-logo="https://raw.githubusercontent.com/mohammad74/Iran-IPTV/master/logos/khabar.png" group-title="News",شبکه خبر https://sassantv.com/proxy.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive2%2Firib-khabar%2Fplaylist.m3u8
 
 
 
