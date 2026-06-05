@@ -221,6 +221,10 @@ https://moviethls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ca-rt.onetv.app:8443/GrandCinema/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GULFMOVIE" tvg-name="Gulf Movie" tvg-logo="https://i.imgur.com/3Q6lG9b.png" group-title="Movies",Gulf Movie
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://stream.cisk.tech/gulfmovie/index.m3u8
 #EXTINF:-1 tvg-id="HOODHOODFARSITV" tvg-name="Hood Hood Farsi Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Hood Hood Farsi Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -573,6 +577,10 @@ https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ib.abntv.live/hls/ofogh.m3u8
+#EXTINF:-1 tvg-id="TEHRAN" tvg-name="Tehran TV (Telewebion)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Tehran TV (Telewebion)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="VARZESH" tvg-name="Varzesh (Telewebion)" tvg-logo="https://i.imgur.com/jO7K2Xl.png" group-title="Sports",Varzesh (Telewebion)
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -581,6 +589,10 @@ https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://sassantv.com/proxy.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive2%2Firib-tv1%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="IRIB1" tvg-name="IRIB 1 Plus (Telewebion)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",IRIB 1 Plus (Telewebion)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IBTV2" tvg-name="IB TV 2" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",IB TV 2
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -589,10 +601,18 @@ https://ib.abntv.live/hls/ibtv2.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="IRIB4" tvg-name="IRIB 4 (Telewebion)" tvg-logo="https://i.imgur.com/9tL3bWe.png" group-title="IRIB",IRIB 4 (Telewebion)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IRINN" tvg-name="IRIB Khabar (Sassan)" tvg-logo="https://i.imgur.com/5YQbT3p.png" group-title="News",IRIB Khabar (Sassan)
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://sassantv.com/proxy.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive2%2Firib-khabar%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="IRINN" tvg-name="IRINN (Telewebion)" tvg-logo="https://i.imgur.com/5YQbT3p.png" group-title="News",IRINN (Telewebion)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IRINN2" tvg-name="IRINN 2 (Telewebion)" tvg-logo="https://i.imgur.com/5YQbT3p.png" group-title="News",IRINN 2 (Telewebion)
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
