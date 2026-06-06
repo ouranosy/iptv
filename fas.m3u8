@@ -635,3 +635,16 @@ https://parstv.live/channel1.m3u8
 #EXTVLCOPT:http-referrer=https://www.gemtv.net/
 #EXTVLCOPT:network-caching=5000
 https://live.gemgroup.tv/gemtv.m3u8
+#EXTINF:-1 tvg-id="GEMTV" tvg-name="GEM TV (OneTV)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",GEM TV (OneTV)
+#EXTVLCOPT:http-user-agent=OneTV/2.5
+#EXTVLCOPT:http-referrer=https://onetv.app/
+#EXTVLCOPT:network-caching=8000
+https://ca-rt.onetv.app:8443/GEMTV/index.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="CHANNELONE" tvg-name="Channel One (OneTV)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Channel One (OneTV)
+#EXTVLCOPT:http-user-agent=OneTV/2.5
+#EXTVLCOPT:http-referrer=https://onetv.app/
+https://ca-rt.onetv.app:8443/ChannelOne/index.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="GRANDCINEMA" tvg-name="Grand Cinema (OneTV)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Movies",Grand Cinema (OneTV)
+#EXTVLCOPT:http-user-agent=OneTV/2.5
+#EXTVLCOPT:http-referrer=https://onetv.app/
+https://ca-rt.onetv.app:8443/GrandCinema/index-0.m3u8?token=onetv202
