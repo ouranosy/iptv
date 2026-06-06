@@ -625,3 +625,6 @@ https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=OneTV/2.5 (Android)
 #EXTVLCOPT:http-referrer=https://onetv.app/
 https://ca-rt.onetv.app:8443/GEMTV/index.m3u8?token=onetv202
+#EXTVLCOPT:http-user-agent=OneTV/2.5
+#EXTVLCOPT:http-referrer=https://onetv.app/
+https://ca-rt.onetv.app:8443/GrandCinema/index-0.m3u8?token=onetv202
