@@ -621,30 +621,7 @@ https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
-#EXTINF:-1 tvg-id="GRANDCINEMA" tvg-name="Grand Cinema (Fixed)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Movies",Grand Cinema (Fixed)
-#EXTVLCOPT:http-user-agent=VLC/3.0.0
-#EXTVLCOPT:network-caching=8000
-#EXTVLCOPT:http-reconnect=true
-https://grandcinema.iranlms.ir/hls/stream.m3u8
-#EXTINF:-1 tvg-id="CHANNELONE" tvg-name="Channel One (Fixed)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Channel One (Fixed)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:network-caching=5000
-https://parstv.live/channel1.m3u8
-#EXTINF:-1 tvg-id="GEMTV" tvg-name="GEM TV (Fixed)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",GEM TV (Fixed)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.gemtv.net/
-#EXTVLCOPT:network-caching=5000
-https://live.gemgroup.tv/gemtv.m3u8
-#EXTINF:-1 tvg-id="GEMTV" tvg-name="GEM TV (OneTV)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",GEM TV (OneTV)
-#EXTVLCOPT:http-user-agent=OneTV/2.5
+#EXTINF:-1, GEM TV
+#EXTVLCOPT:http-user-agent=OneTV/2.5 (Android)
 #EXTVLCOPT:http-referrer=https://onetv.app/
-#EXTVLCOPT:network-caching=8000
 https://ca-rt.onetv.app:8443/GEMTV/index.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="CHANNELONE" tvg-name="Channel One (OneTV)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Channel One (OneTV)
-#EXTVLCOPT:http-user-agent=OneTV/2.5
-#EXTVLCOPT:http-referrer=https://onetv.app/
-https://ca-rt.onetv.app:8443/ChannelOne/index.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GRANDCINEMA" tvg-name="Grand Cinema (OneTV)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Movies",Grand Cinema (OneTV)
-#EXTVLCOPT:http-user-agent=OneTV/2.5
-#EXTVLCOPT:http-referrer=https://onetv.app/
-https://ca-rt.onetv.app:8443/GrandCinema/index-0.m3u8?token=onetv202
