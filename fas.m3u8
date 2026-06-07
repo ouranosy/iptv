@@ -305,6 +305,10 @@ https://khbhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ca-rt.onetv.app/Khanehonarmandan/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="SIMAYEAZADI" tvg-name="Khatereh (Alt)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Khatereh (Alt)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
 #EXTINF:-1 tvg-id="MAAHTV" tvg-name="Maah Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Maah Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -477,10 +481,6 @@ https://live.livestreamtv.ca/romanticotvshow/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://setarehhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SIMAYEAZADI" tvg-name="Khatereh (Alt)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Khatereh (Alt)
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
 #EXTINF:-1 tvg-id="SL1" tvg-name="Sl1" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Sl1
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -497,6 +497,14 @@ https://ca-rt.onetv.app/T2America/index-0.m3u8?token=onetv202
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ca-rt.onetv.app/T2International/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="T2MOVIES" tvg-name="T2 Movies" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",T2 Movies
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="T2TV" tvg-name="T2 Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",T2 Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TAPESHTV" tvg-name="Tapesh Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Tapesh Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -505,6 +513,10 @@ https://iptv.tapesh.tv/tapesh/playlist.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+#EXTINF:-1 tvg-id="TBNNEJATTV" tvg-name="Tbn Nejat Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Tbn Nejat Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://hls.nejat.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TINTV" tvg-name="Tin Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Tin Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -517,18 +529,6 @@ https://tgn2.bozztv.com/tintv/tintv/index.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://hls.tmtv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="T2MOVIES" tvg-name="T2 Movies" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",T2 Movies
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="T2TV" tvg-name="T2 Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",T2 Tv
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TBNNEJATTV" tvg-name="Tbn Nejat Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Tbn Nejat Tv
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://hls.nejat.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="VOAPERSIAN" tvg-name="Voa Persian" tvg-logo="https://i.imgur.com/TmqComb.png" group-title="News",Voa Persian
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -601,6 +601,14 @@ https://ib.abntv.live/hls/ibtv2.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="IRIBTV3" tvg-name="IRIB TV3 HD Telewebion" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",IRIB TV3 HD Telewebion
+#EXTVLCOPT:network-caching=5000
+https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB3" tvg-name="IRIB3 HD PersianHub" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",IRIB3 HD PersianHub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://persianhub1.com/
+#EXTVLCOPT:network-caching=5000
+https://stream.persianhub1.com/secure-hls/JMrlUuG99sGtS0HgWwinhA/1780875215/irib3-hd/index.m3u8
 #EXTINF:-1 tvg-id="IRIB4" tvg-name="IRIB 4 (Telewebion)" tvg-logo="https://i.imgur.com/9tL3bWe.png" group-title="IRIB",IRIB 4 (Telewebion)
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
