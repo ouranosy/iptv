@@ -604,10 +604,6 @@ https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="IRIBTV3" tvg-name="IRIB TV3 HD Telewebion" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",IRIB TV3 HD Telewebion
 #EXTVLCOPT:network-caching=5000
 https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB3" tvg-name="IRIB3 HD PersianHub" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",IRIB3 HD PersianHub
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://persianhub1.com/
-#EXTVLCOPT:network-caching=5000
 https://stream.persianhub1.com/secure-hls/JMrlUuG99sGtS0HgWwinhA/1780875215/irib3-hd/index.m3u8
 #EXTINF:-1 tvg-id="IRIB4" tvg-name="IRIB 4 (Telewebion)" tvg-logo="https://i.imgur.com/9tL3bWe.png" group-title="IRIB",IRIB 4 (Telewebion)
 #EXTVLCOPT:network-caching=5000
