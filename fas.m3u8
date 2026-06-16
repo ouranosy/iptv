@@ -36,10 +36,6 @@ https://arvhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AVAFAMILY" tvg-name="Ava Family (Backup 2)" tvg-logo="https://i.imgur.com/5LRiF6v.png" group-title="General",Ava Family (Backup 2)
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app:8443/AVAFamily/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="AVASERIES" tvg-name="Ava Series" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Ava Series
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -60,10 +56,6 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://cafefhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="CHANNELONE" tvg-name="Channel One" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Channel One
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app:8443/ChannelOne/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GRANDCINEMA" tvg-name="Grand Cinema" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Cinex
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -88,10 +80,6 @@ https://rdejhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
-#EXTINF:-1 tvg-id="EKRANMOVIES" tvg-name="Ekran Movies" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Ekran Movies
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="FARSITV" tvg-name="Farsi Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Farsi Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -104,115 +92,6 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://toonixhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="GEM24B" tvg-name="Gem 24B" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem 24B
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMBOOLYWOOD" tvg-name="Gem Boolywood" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Boolywood
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMCLASSIC" tvg-name="Gem Classic" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Classic
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMCOMEDY" tvg-name="Gem Comedy" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Comedy
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMDRAMA" tvg-name="Gem Drama" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Drama
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202
-https://sassantv.com/proxy.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive2%2Firib-tv1%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="GEMDRAMAPLUS" tvg-name="GEM Drama Plus" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Series",GEM Drama Plus
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMENTERTAINMENT" tvg-name="Gem Entertainment" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Entertainment
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMFIT" tvg-name="Gem Fit" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Fit
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMFILM" tvg-name="Gem Film" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Film
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMFOOD" tvg-name="Gem Food" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Food
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMJUNIOR" tvg-name="Gem Junior" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Junior
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMKIDS" tvg-name="Gem Kids" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Kids
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMLIFE" tvg-name="Gem Life" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Life
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMMIFA" tvg-name="Gem Mifa" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Mifa
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMONYX" tvg-name="Gem Onyx" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Onyx
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMNATURE" tvg-name="Gem Nature" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Nature
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMPIXEL" tvg-name="Gem Pixel" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Pixel
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
-#EXTINF:-1 tvg-id="GEMPIXEL" tvg-name="Gem Pixel (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Pixel (Backup 2)
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gempixel/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMRIVER" tvg-name="Gem River" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem River
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMRIVERPLUSE" tvg-name="Gem River Pluse" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem River Pluse
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMRUBIX" tvg-name="Gem Rubix" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Rubix
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMROBIXPLUSE" tvg-name="Gem Robix Pluse" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Robix Pluse
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMSERIES" tvg-name="Gem Series" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Series
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMSERIES" tvg-name="Gem Series (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Series (Backup 2)
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMTV" tvg-name="Gem Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Tv
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMTV" tvg-name="Gem Tv (Backup 2)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Tv (Backup 2)
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app:8443/gemb/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMTVPLUSE" tvg-name="Gem Tv Pluse" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="GEM",Gem Tv Pluse
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GOLDSTAR" tvg-name="Gold Star" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Gold Star
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -249,14 +128,6 @@ https://ic3hls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 http://iranaryaee.icdndhcp.com/iranearyaeesd/index.m3u8
-#EXTINF:-1 tvg-id="IRANFARDATV" tvg-name="Iranfarda Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Iranfarda Tv
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://hls.iranfarda.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="IRANINDEPENDENT" tvg-name="Iran Independent" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Iran Independent
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/hls/iranindtv/index.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="IRANINTERNATIONAL" tvg-name="Iran International" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Iran International
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -273,14 +144,14 @@ https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://streaminglive.co.il:3730/live/raniamranilive.m3u8
-#EXTINF:-1 tvg-id="ITC?" tvg-name="Itc?" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Itc?
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/9b5be6d9ebdfce62a3eeb49a43cb1479/manifest/video.m3u8
 #EXTINF:-1 tvg-id="ISRAELPARSTV" tvg-name="Israel Pars Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Israel Pars Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://live.pars-israel.com/tmp_hls/iptv/index.m3u8
+#EXTINF:-1 tvg-id="ITC?" tvg-name="Itc?" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Itc?
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/9b5be6d9ebdfce62a3eeb49a43cb1479/manifest/video.m3u8
 #EXTINF:-1 tvg-id="ITCTV" tvg-name="Itc Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Itc Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -301,10 +172,6 @@ https://kjhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://khbhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KHANEHONAR" tvg-name="Khane Honarmandan" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Culture",Khane Honarmandan
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/Khanehonarmandan/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="SIMAYEAZADI" tvg-name="Khatereh (Alt)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Khatereh (Alt)
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -489,18 +356,6 @@ https://slonehls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://sltwohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="T2AMERICA" tvg-name="T2 America" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",T2 America
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/T2America/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="T2INTERNATIONAL" tvg-name="T2 International" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",T2 International
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/T2International/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="T2MOVIES" tvg-name="T2 Movies" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",T2 Movies
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="T2TV" tvg-name="T2 Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",T2 Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -573,10 +428,6 @@ https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8
-#EXTINF:-1 tvg-id="OFOGH" tvg-name="Ofogh" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Ofogh
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ib.abntv.live/hls/ofogh.m3u8
 #EXTINF:-1 tvg-id="TEHRAN" tvg-name="Tehran TV (Telewebion)" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Tehran TV (Telewebion)
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -593,10 +444,6 @@ https://sassantv.com/proxy.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive2%2Firib-tv1%
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IBTV2" tvg-name="IB TV 2" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",IB TV 2
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://ib.abntv.live/hls/ibtv2.m3u8
 #EXTINF:-1 tvg-id="IRIB3" tvg-name="Irib 3" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="IRIB",Irib 3
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -625,7 +472,3 @@ https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
-#EXTINF:-1,IRINN (OneTV)
-#EXTVLCOPT:http-user-agent=OneTV/2.5
-#EXTVLCOPT:http-referrer=https://onetv.app/
-https://ca-rt.onetv.app/IRINN/index-0.m3u8?token=onetv202
