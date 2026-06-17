@@ -16,7 +16,7 @@ https://hls.247box.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-#EXTINF:-1 tvg-id="AFRAFILM" tvg-name="Afra Film" tvg-logo="https://your-host.com/afrafilm.png" group-title="General",Afra Film
+#EXTINF:-1 tvg-id="AFRAFILM" tvg-name="Afra Film" tvg-logo="https://i.postimg.cc/QMtFTrbK/IMG-0127.png" group-title="General",Afra Film
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://afrafhls.wns.live/hls/stream.m3u8
