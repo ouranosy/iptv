@@ -76,7 +76,7 @@ https://dathls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://rdejhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="DIDGAHTV" tvg-name="Didgah Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Didgah Tv
+#EXTINF:-1 tvg-id="DIDGAHTV" tvg-name="Didgah Tv" tvg-logo="https://i.postimg.cc/VNShvd3Q/IMG-0124.jpg" group-title="General",Didgah Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
