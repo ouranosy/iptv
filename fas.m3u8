@@ -28,7 +28,7 @@ https://araxhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://arkhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ARVANTV" tvg-name="Arvan Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Arvan Tv
+#EXTINF:-1 tvg-id="arvantv-ir" tvg-name="Arvan Tv" tvg-logo="https://i.postimg.cc/tJ47dNXN/arvan-tv-logo-9ac90455.jpg" group-title="General",Arvan Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://arvhls.wns.live/hls/stream.m3u8
