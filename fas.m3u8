@@ -12,7 +12,7 @@ https://hls.4utv.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://hls.247box.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AFNTV" tvg-name="Afn Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Afn Tv
+#EXTINF:-1 tvg-id="AFNTV" tvg-name="Afn Tv" tvg-logo="https://i.imgur.com/pTAN46e.jpg" group-title="General",Afn Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
