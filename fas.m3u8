@@ -20,7 +20,7 @@ https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://afrafhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ARAXTV" tvg-name="Arax Tv" tvg-logo="https://pt.kingofsat.net/jpg/araxtv.jpg" group-title="General",Arax Tv
+#EXTINF:-1 tvg-id="ARAXTV" tvg-name="Arax TV" tvg-logo="https://www.aparatchi.com/images/chanells-logo/araxtv.svg" group-title="General",Arax TV
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://araxhls.wns.live/hls/stream.m3u8
