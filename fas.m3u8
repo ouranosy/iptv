@@ -64,7 +64,7 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://clshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="DIDANIHATV" tvg-name="Didaniha Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Didaniha Tv
+#EXTINF:-1 tvg-id="DIDANIHATV" tvg-name="Didaniha Tv" tvg-logo="https://i.postimg.cc/3wKRHQ6m/IMG-0126.jpg" group-title="General",Didaniha Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://932y493eljv8-hls-live.5centscdn.com/did/a5a78758611d40a8beef13f803dd816b.sdp/playlist.m3u8
