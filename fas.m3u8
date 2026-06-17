@@ -1,6 +1,6 @@
 #EXTM3U
 # Backup-enabled playlist - if primary fails, try Backup 2/3
-#EXTINF:-1 tvg-id="4UFAMILY" tvg-name="4U Family" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",4U Family
+#EXTINF:-1 tvg-id="4UFAMILY" tvg-name="4U Family" tvg-logo="https://i.imgur.com/TYqBnYk.jpeg" group-title="General",4U Family
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://familyhls.4utv.live/hls/stream.m3u8
