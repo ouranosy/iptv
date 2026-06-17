@@ -60,7 +60,7 @@ https://cafefhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://gcinemahls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="CLASSICTV" tvg-name="Classic Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Classic Tv
+#EXTINF:-1 tvg-id="CLASSICTV" tvg-name="Classic Tv" tvg-logo="https://i.postimg.cc/SKQ5hgGx/classic-tv.jpg" group-title="General",Classic Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://clshls.wns.live/hls/stream.m3u8
