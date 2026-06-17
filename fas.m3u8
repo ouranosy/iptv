@@ -56,7 +56,7 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://cafefhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="GRANDCINEMA" tvg-name="Grand Cinema" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Cinex
+#EXTINF:-1 tvg-id="GRANDCINEMA" tvg-name="Grand Cinema" tvg-logo="https://i.postimg.cc/QMPB3yr9/IMG-0122.jpg" group-title="General",Cinex
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://gcinemahls.wns.live/hls/stream.m3u8
