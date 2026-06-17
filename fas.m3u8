@@ -40,7 +40,7 @@ https://familyhls.avatv.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AVANGTV" tvg-name="Avang Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Avang Tv
+#EXTINF:-1 tvg-id="AVANGTV" tvg-name="Avang Tv" tvg-logo="https://i.postimg.cc/xCTtmBbx/avang-tv-logo-9a52ba22.jpg" group-title="General",Avang Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://hls.avang.live/hls/stream.m3u8
