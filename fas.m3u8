@@ -32,7 +32,7 @@ https://arkhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://arvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AVAFAMILY" tvg-name="Ava Family" tvg-logo="https://i.imgur.com/5LRiF6v.png" group-title="General",Ava Family
+#EXTINF:-1 tvg-id="AVAFAMILY" tvg-name="Ava Family" tvg-logo="https://i.postimg.cc/nLQHJwzp/ava-family-logo-5d4f6cdd.jpg" group-title="General",Ava Family
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://familyhls.avatv.live/hls/stream.m3u8
