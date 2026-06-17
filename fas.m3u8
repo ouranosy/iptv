@@ -36,7 +36,7 @@ https://arvhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AVASERIES" tvg-name="Ava Series" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Ava Series
+#EXTINF:-1 tvg-id="AVASERIES" tvg-name="Ava Series" tvg-logo="https://i.postimg.cc/MTDg2yyZ/ava-series-logo-79348256.jpg" group-title="General",Ava Series
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://avaserieshls.wns.live/hls/stream.m3u8
