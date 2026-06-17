@@ -28,10 +28,6 @@ https://araxhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://arkhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="arvantv-ir" tvg-name="Arvan Tv" tvg-logo="https://i.postimg.cc/tJ47dNXN/arvan-tv-logo-9ac90455.jpg" group-title="General",Arvan Tv
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://arvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AVAFAMILY" tvg-name="Ava Family" tvg-logo="https://i.postimg.cc/nLQHJwzp/ava-family-logo-5d4f6cdd.jpg" group-title="General",Ava Family
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -346,6 +342,10 @@ https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://live.livestreamtv.ca/romanticotvshow/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="arvantv-ir" tvg-name="Arvan Tv" tvg-logo="https://i.postimg.cc/c4CY3wLy/IMG-0129.png" group-title="General",Royal Tv
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://arvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SETAREHTV" tvg-name="Setareh Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Setareh Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
