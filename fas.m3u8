@@ -68,7 +68,7 @@ https://clshls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://932y493eljv8-hls-live.5centscdn.com/did/a5a78758611d40a8beef13f803dd816b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="DATISTV" tvg-name="Datis Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Datis Tv
+#EXTINF:-1 tvg-id="DATISTV" tvg-name="Datis Tv" tvg-logo="https://i.postimg.cc/HsqdT1JV/IMG-0123.jpg" group-title="General",Datis Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://dathls.wns.live/hls/stream.m3u8
