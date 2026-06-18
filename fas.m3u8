@@ -80,7 +80,7 @@ https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://farsitvlive.b-cdn.net/farsitvlive/farsitvlive.m3u8
-#EXTINF:-1 tvg-id="FX1" tvg-name="Fx1" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Fx1
+#EXTINF:-1 tvg-id="FX1" tvg-name="Fx1" tvg-logo="https://i.postimg.cc/cH3G4Yhk/IMG-0134.png" group-title="General",Fx1
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://fxtvhls.wns.live/hls/stream.m3u8
