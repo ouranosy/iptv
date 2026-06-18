@@ -84,11 +84,11 @@ https://farsitvlive.b-cdn.net/farsitvlive/farsitvlive.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://fxtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="FX2" tvg-name="Fx2" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Fx2
+#EXTINF:-1 tvg-id="FX2" tvg-name="Fx2" tvg-logo="https://i.postimg.cc/kMtVHZnD/fx2.jpg" group-title="General",Fx2
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://toonixhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="GOLDSTAR" tvg-name="Gold Star" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Gold Star
+#EXTINF:-1 tvg-id="GOLDSTAR" tvg-name="Gold Star" tvg-logo="https://i.postimg.cc/DfbgcBH1/luxury-golden-star-logo-symbol-vector-designs-template-elegant-style-black-background-656472-181.jpg" group-title="General",Gold Star
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://moviethls.wns.live/hls/stream.m3u8
@@ -96,19 +96,19 @@ https://moviethls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ca-rt.onetv.app:8443/GrandCinema/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GULFMOVIE" tvg-name="Gulf Movie" tvg-logo="https://i.imgur.com/3Q6lG9b.png" group-title="Movies",Gulf Movie
+#EXTINF:-1 tvg-id="GULFMOVIE" tvg-name="Gulf Movie" tvg-logo="https://i.postimg.cc/4N0XT4w0/download.jpg" group-title="Movies",Gulf Movie
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://stream.cisk.tech/gulfmovie/index.m3u8
-#EXTINF:-1 tvg-id="HOODHOODFARSITV" tvg-name="Hood Hood Farsi Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Hood Hood Farsi Tv
+#EXTINF:-1 tvg-id="HOODHOODFARSITV" tvg-name="Hood Hood Farsi Tv" tvg-logo="https://i.postimg.cc/qBnF7JJH/hodhod.jpg" group-title="General",Hood Hood Farsi Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://northtelecom.b-cdn.net/hodhodtv.m3u8
-#EXTINF:-1 tvg-id="HOMEPLUS" tvg-name="Home Plus" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Home Plus
+#EXTINF:-1 tvg-id="HOMEPLUS" tvg-name="Home Plus" tvg-logo="https://i.postimg.cc/t4LP7jCy/images.png" group-title="General",Home Plus
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://homeplushls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ICCPLUS" tvg-name="Icc Plus" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Icc Plus
+#EXTINF:-1 tvg-id="ICCPLUS" tvg-name="Icc Plus" tvg-logo="https://i.postimg.cc/9MxQRdtr/icc2b.jpg" group-title="General",Icc Plus
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://icchls.wns.live/hls/stream.m3u8
