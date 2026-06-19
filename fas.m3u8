@@ -480,5 +480,6 @@ https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Ekran Movies" group-title="Farsi",Ekran Movies
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://gg.hls2.xyz/live/Ekran/playlist.m3u8
