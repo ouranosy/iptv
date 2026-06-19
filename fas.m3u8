@@ -284,19 +284,19 @@ https://scihls.persiana.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANASONATI" tvg-name="Persiana Sonati" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Sonati
+#EXTINF:-1 tvg-id="PERSIANASONATI" tvg-name="Persiana Sonati" tvg-logo="https://i.postimg.cc/wxR9ctpk/images-(13).png" group-title="Persiana",Persiana Sonati
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANASPORT" tvg-name="Persiana Sport" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Sport
+#EXTINF:-1 tvg-id="PERSIANASPORT" tvg-name="Persiana Sport" tvg-logo="https://i.postimg.cc/R0YjNRq7/images-(11).jpg" group-title="Persiana",Persiana Sport
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8
-#EXTINF:-1 tvg-id="PERSIANATURKIE" tvg-name="Persiana Turkie" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Turkie
+#EXTINF:-1 tvg-id="PERSIANATURKIE" tvg-name="Persiana Turkie" tvg-logo="https://i.postimg.cc/R0WY5HGt/images-(12).jpg" group-title="Persiana",Persiana Turkie
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://turkhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANATWO" tvg-name="Persiana Two" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Two
+#EXTINF:-1 tvg-id="PERSIANATWO" tvg-name="Persiana Two" tvg-logo="https://i.postimg.cc/W1H9n4jp/images-(14).png" group-title="Persiana",Persiana Two
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://twohls.persiana.live/hls/stream.m3u8
@@ -304,39 +304,39 @@ https://twohls.persiana.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://piroozhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PMC" tvg-name="Pmc" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Pmc
+#EXTINF:-1 tvg-id="PMC" tvg-name="Pmc" tvg-logo="https://i.postimg.cc/rm8tRSbQ/download-(1).jpg" group-title="General",Pmc
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://pmchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PMCROYAL" tvg-name="Pmc Royal" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Pmc Royal
+#EXTINF:-1 tvg-id="PMCROYAL" tvg-name="Pmc Royal" tvg-logo="https://i.postimg.cc/c4VgBq2N/images-(13).jpg" group-title="General",Pmc Royal
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://pmcrohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PRESSTV" tvg-name="Press Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Press Tv
+#EXTINF:-1 tvg-id="PRESSTV" tvg-name="Press Tv" tvg-logo="https://i.postimg.cc/NjqFr62R/images-(14).jpg" group-title="News",Press Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://live.presstv.ir/hls/presstv.m3u8
-#EXTINF:-1 tvg-id="PROJECTLEON" tvg-name="Project Leon" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Project Leon
+#EXTINF:-1 tvg-id="PROJECTLEON" tvg-name="Project Leon" tvg-logo="https://i.postimg.cc/RVff8Vcz/images-(15).jpg" group-title="General",Project Leon
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://pleonhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PULSEMEDIA" tvg-name="Pulse Media" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Pulse Media
+#EXTINF:-1 tvg-id="PULSEMEDIA" tvg-name="Pulse Media" tvg-logo="https://i.postimg.cc/xdFc8Wv9/images-(16).jpg" group-title="General",Pulse Media
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://pulsehls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RADIOFARDA" tvg-name="Radio Farda" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Radio Farda
+#EXTINF:-1 tvg-id="RADIOFARDA" tvg-name="Radio Farda" tvg-logo="https://i.postimg.cc/cLFJkV5H/images-(15).png" group-title="News",Radio Farda
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist.m3u8
-#EXTINF:-1 tvg-id="RAVITV" tvg-name="Ravi Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Ravi Tv
+#EXTINF:-1 tvg-id="RAVITV" tvg-name="Ravi Tv" tvg-logo="https://i.postimg.cc/qq1YHxfS/images-(16).png" group-title="General",Ravi Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://hls.ravitv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RJTV" tvg-name="Rj Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Rj Tv
+#EXTINF:-1 tvg-id="RJTV" tvg-name="Rj Tv" tvg-logo="https://i.postimg.cc/qR0Zt54S/images-(17).png" group-title="General",Rj Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://rjtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ROMANTICOTV" tvg-name="Romantico Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Romantico Tv
+#EXTINF:-1 tvg-id="ROMANTICOTV" tvg-name="Romantico Tv" tvg-logo="https://i.postimg.cc/QxLSVzmd/images-(17).jpg" group-title="General",Romantico Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://live.livestreamtv.ca/romanticotvshow/tracks-v1a1/mono.m3u8
@@ -344,15 +344,15 @@ https://live.livestreamtv.ca/romanticotvshow/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://arvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SETAREHTV" tvg-name="Setareh Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Setareh Tv
+#EXTINF:-1 tvg-id="SETAREHTV" tvg-name="Setareh Tv" tvg-logo="https://i.postimg.cc/pThYLQnc/images-(18).jpg" group-title="General",Setareh Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://setarehhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SL1" tvg-name="Sl1" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Sl1
+#EXTINF:-1 tvg-id="SL1" tvg-name="Sl1" tvg-logo="https://i.postimg.cc/RZgc1p7K/images-(18).png" group-title="General",Sl1
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://slonehls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SL2" tvg-name="Sl2" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Sl2
+#EXTINF:-1 tvg-id="SL2" tvg-name="Sl2" tvg-logo="https://i.postimg.cc/TYY1jdCc/images-(19).jpg" group-title="General",Sl2
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://sltwohls.wns.live/hls/stream.m3u8
@@ -480,6 +480,3 @@ https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gg.hls2.xyz/live/Ekran/playlist.m3u8
