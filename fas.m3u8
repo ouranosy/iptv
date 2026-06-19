@@ -176,43 +176,39 @@ https://khbhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
-#EXTINF:-1 tvg-id="MAAHTV" tvg-name="Maah Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Maah Tv
+#EXTINF:-1 tvg-id="MAAHTV" tvg-name="Maah Tv" tvg-logo="https://i.postimg.cc/Bn6tNmNW/download.jpg" group-title="General",Maah Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://hls.maahtv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MAAWJ" tvg-name="Maawj" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Maawj
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://maawjhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MBCPERSIA" tvg-name="Mbc Persia" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Mbc Persia
+#EXTINF:-1 tvg-id="MBCPERSIA" tvg-name="Mbc Persia" tvg-logo="https://i.postimg.cc/BnrsDpVN/download.png" group-title="General",Mbc Persia
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://hls.mbcpersia.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="METAFILM" tvg-name="Metafilm" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Movies",Metafilm
+#EXTINF:-1 tvg-id="METAFILM" tvg-name="Metafilm" tvg-logo="https://i.postimg.cc/C5z6cTZk/images.jpg" group-title="Movies",Metafilm
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://metafilmhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MELLIGTV" tvg-name="Mellig Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Mellig Tv
+#EXTINF:-1 tvg-id="MELLIGTV" tvg-name="Mellig Tv" tvg-logo="https://i.postimg.cc/hGZYTtjN/images-(1).jpg" group-title="General",Mellig Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://mellihls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MTC" tvg-name="Mtc" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Mtc
+#EXTINF:-1 tvg-id="MTC" tvg-name="Mtc" tvg-logo="https://i.postimg.cc/8zK4nnSw/images-(2).jpg" group-title="General",Mtc
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://mtchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="NETTV" tvg-name="Net TV" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Net TV
+#EXTINF:-1 tvg-id="NETTV" tvg-name="Net TV" tvg-logo="https://i.postimg.cc/13tc6cqJ/images.png" group-title="General",Net TV
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://nethls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="NOVINTV" tvg-name="Novin Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Novin Tv
+#EXTINF:-1 tvg-id="NOVINTV" tvg-name="Novin Tv" tvg-logo="https://i.postimg.cc/RCdHRJ9L/images-(3).jpg" group-title="General",Novin Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://stream.novin.live/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="OMIDIRAN" tvg-name="Omid Iran" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Omid Iran
+#EXTINF:-1 tvg-id="OMIDIRAN" tvg-name="Omid Iran" tvg-logo="https://i.postimg.cc/tRBsP0NH/images-(1).png" group-title="News",Omid Iran
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://oitnhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="OXIRTV" tvg-name="Oxir Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Oxir Tv
+#EXTINF:-1 tvg-id="OXIRTV" tvg-name="Oxir Tv" tvg-logo="https://i.postimg.cc/ZRKTKRgK/images-(4).jpg" group-title="General",Oxir Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://hls.oxir.live/hls/stream.m3u8
@@ -220,71 +216,71 @@ https://hls.oxir.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://parshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PAYAMJAVAN" tvg-name="Payam Javan" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Payam Javan
+#EXTINF:-1 tvg-id="PAYAMJAVAN" tvg-name="Payam Javan" tvg-logo="https://i.postimg.cc/VkkQCTg9/images-(5).jpg" group-title="General",Payam Javan
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PERSIANACINEMA" tvg-name="Persiana Cinema" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Cinema
+#EXTINF:-1 tvg-id="PERSIANACINEMA" tvg-name="Persiana Cinema" tvg-logo="https://i.postimg.cc/wjGPsB7y/images-(2).png" group-title="Persiana",Persiana Cinema
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANACOMEDY" tvg-name="Persiana Comedy" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Comedy
+#EXTINF:-1 tvg-id="PERSIANACOMEDY" tvg-name="Persiana Comedy" tvg-logo="https://i.postimg.cc/MZ9YGFcT/images-(3).png" group-title="Persiana",Persiana Comedy
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://comedyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANAFAMILY" tvg-name="Persiana Family" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Family
+#EXTINF:-1 tvg-id="PERSIANAFAMILY" tvg-name="Persiana Family" tvg-logo="https://i.postimg.cc/KjjBLmKj/images-(4).png" group-title="Persiana",Persiana Family
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANAFIGHT" tvg-name="Persiana Fight" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Fight
+#EXTINF:-1 tvg-id="PERSIANAFIGHT" tvg-name="Persiana Fight" tvg-logo="https://i.postimg.cc/xTKMzp8c/images-(5).png" group-title="Persiana",Persiana Fight
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANAIRANIAN" tvg-name="Persiana Iranian" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Persiana Iranian
+#EXTINF:-1 tvg-id="PERSIANAIRANIAN" tvg-name="Persiana Iranian" tvg-logo="https://i.postimg.cc/SRbjQqWW/images-(6).jpg" group-title="News",Persiana Iranian
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANAJUNIOR" tvg-name="Persiana Junior" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Junior
+#EXTINF:-1 tvg-id="PERSIANAJUNIOR" tvg-name="Persiana Junior" tvg-logo="https://i.postimg.cc/xdW1gYpx/images-(6).png" group-title="Persiana",Persiana Junior
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANAKOREA" tvg-name="Persiana Korea" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Korea
+#EXTINF:-1 tvg-id="PERSIANAKOREA" tvg-name="Persiana Korea" tvg-logo="https://i.postimg.cc/nhrVJMyX/images-(7).png" group-title="Persiana",Persiana Korea
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANAMEDICAL" tvg-name="Persiana Medical" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Medical
+#EXTINF:-1 tvg-id="PERSIANAMEDICAL" tvg-name="Persiana Medical" tvg-logo="https://i.postimg.cc/bv0BV9mt/images-(7).jpg" group-title="Persiana",Persiana Medical
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://phd2hls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANAMUSIC" tvg-name="Persiana Music" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Music
+#EXTINF:-1 tvg-id="PERSIANAMUSIC" tvg-name="Persiana Music" tvg-logo="https://i.postimg.cc/xTbgFPdt/images-(8).png" group-title="Persiana",Persiana Music
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANANOSTALGIA" tvg-name="Persiana Nostalgia" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Nostalgia
+#EXTINF:-1 tvg-id="PERSIANANOSTALGIA" tvg-name="Persiana Nostalgia" tvg-logo="https://i.postimg.cc/52Srnm7t/images-(9).png" group-title="Persiana",Persiana Nostalgia
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANAONE" tvg-name="Persiana One" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana One
+#EXTINF:-1 tvg-id="PERSIANAONE" tvg-name="Persiana One" tvg-logo="https://i.postimg.cc/bJ7LzGCF/images-(10).png" group-title="Persiana",Persiana One
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANAPLUS" tvg-name="Persiana Plus" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Plus
+#EXTINF:-1 tvg-id="PERSIANAPLUS" tvg-name="Persiana Plus" tvg-logo="https://i.postimg.cc/XY1fjGXp/images-(8).jpg" group-title="Persiana",Persiana Plus
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANARAP" tvg-name="Persiana Rap" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Rap
+#EXTINF:-1 tvg-id="PERSIANARAP" tvg-name="Persiana Rap" tvg-logo="https://i.postimg.cc/8kdLFnj7/images-(11).png" group-title="Persiana",Persiana Rap
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANAREALITY" tvg-name="Persiana Reality" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Reality
+#EXTINF:-1 tvg-id="PERSIANAREALITY" tvg-name="Persiana Reality" tvg-logo="https://i.postimg.cc/2yH6QWs9/images-(9).jpg" group-title="Persiana",Persiana Reality
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://twohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANASCIENCE" tvg-name="Persiana Science" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Science
+#EXTINF:-1 tvg-id="PERSIANASCIENCE" tvg-name="Persiana Science" tvg-logo="https://i.postimg.cc/hPfPFXWt/images-(10).jpg" group-title="Persiana",Persiana Science
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PERSIANASERIES" tvg-name="Persiana Series" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Persiana",Persiana Series
+#EXTINF:-1 tvg-id="PERSIANASERIES" tvg-name="Persiana Series" tvg-logo="https://i.postimg.cc/L8Qbcspc/images-(12).png" group-title="Persiana",Persiana Series
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://onehls.persiana.live/hls/stream.m3u8
