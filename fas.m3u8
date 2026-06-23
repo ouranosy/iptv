@@ -80,6 +80,8 @@ https://rdejhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
+#EXTINF:-1, tvg-id="EKRANMOVIES" tvg-name="Ekran Movies" tvg-logo="https://i.postimg.cc/pVqy7bJJ/download-(1).png" group-title="General",Ekran Movies
+https://spf-cors-onetv-t9fz.cfwrkr.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
 #EXTINF:-1 tvg-id="FARSITV" tvg-name="Farsi Tv" tvg-logo="https://i.postimg.cc/s21n3rKg/IMG-0133.png" group-title="General",Farsi Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -99,7 +101,7 @@ https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GRANDCINEMA" tvg-name="Grand Cinema" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="Movies",Grand Cinema
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://ca-rt.onetv.app:8443/GrandCinema/index-0.m3u8?token=onetv202
+https://spf-cors-onetv-t9fz.cfwrkr.workers.dev/?url=https://ca-rt.onetv.app/GrandCinema/index-0.m3u8
 #EXTINF:-1 tvg-id="GULFMOVIE" tvg-name="Gulf Movie" tvg-logo="https://i.postimg.cc/4N0XT4w0/download.jpg" group-title="Movies",Gulf Movie
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -360,6 +362,10 @@ https://slonehls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1, tvg-id="T2AMERICA" tvg-name="T2AMERICA" tvg-logo="https://i.postimg.cc/RZ1d5Zsc/download.png" group-title="General",T2 America
+https://spf-cors-onetv-t9fz.cfwrkr.workers.dev/?url=https://ca-rt.onetv.app/T2America/index-0.m3u8
+#EXTINF:-1, tvg-id="T2MOVIES" tvg-name="T"MOVIES" tvg-logo="https://i.postimg.cc/wjxyMxxW/download.jpg" group-title="General",T2 Movies
+https://spf-cors-onetv-t9fz.cfwrkr.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 #EXTINF:-1 tvg-id="T2TV" tvg-name="T2 Tv" tvg-logo="https://i.postimg.cc/DyL3s25S/images-(20).jpg" group-title="General",T2 Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
