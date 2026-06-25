@@ -298,6 +298,8 @@ https://sonhls.persiana.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/Persiana-Music-min.png",Persiana (CDN1)
+https://edge22.776740.ir.cdn.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-id="PERSIANATURKIE" tvg-name="Persiana Turkie" tvg-logo="https://i.postimg.cc/R0WY5HGt/images-(12).jpg" group-title="Persiana",Persiana Turkie
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
