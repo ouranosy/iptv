@@ -94,6 +94,26 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="GEM Classic" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemtv.png" group-title="Iran",GEM Classic
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20CLASSIC2/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Film" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemtv.png" group-title="Iran",GEM Film
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Film2/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Onyx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gem_TV_logo_2020.png/960px-Gem_TV_logo_2020.png" group-title="Iran",GEM Onyx
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20Gem%20Onyx2/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Sport" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemtv.png" group-title="Iran",GEM Sport
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://pakhshzende.com/pz-hls/?src=https://ggg.hls2.xyz/live/GEM%20Sport/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM TV" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemtv.png" group-title="Iran",GEM TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="GOLDSTAR" tvg-name="Gold Star" tvg-logo="https://i.postimg.cc/DfbgcBH1/luxury-golden-star-logo-symbol-vector-designs-template-elegant-style-black-background-656472-181.jpg" group-title="General",Gold Star
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -296,6 +316,18 @@ https://onehls.persiana.live/hls/stream.m3u8
 https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YjNRq7/images-(11).jpg",Persiana Sports
 https://edge22.776740.ir.cdn.ir/hls2/persiana.m3u8
+#EXTINF:-1 tvg-name="Persiana Sports 1" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/Persiana-Music-min.png" group-title="Iran",Persiana Sports 1
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8
+#EXTINF:-1 tvg-name="Persiana Sports 2" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/Persiana-Music-min.png" group-title="Iran",Persiana Sports 2
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://pakhshzende.com/pz-hls/?src=https://ggg.hls2.xyz/live/Persiana%20Sports2/playlist.m3u8
+#EXTINF:-1 tvg-name="Persiana Sports 3" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/Persiana-Music-min.png" group-title="Iran",Persiana Sports 3
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/Persiana%20Sports3/playlist.m3u8
 #EXTINF:-1 tvg-id="PERSIANATURKIE" tvg-name="Persiana Turkie" tvg-logo="https://i.postimg.cc/R0WY5HGt/images-(12).jpg" group-title="Persiana",Persiana Turkie
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -452,6 +484,14 @@ https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
+#EXTINF:-1 tvg-name="IRIB Varzesh 1 (Telewebion)" tvg-logo="https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/I/m/IRIB_Varzesh_Logo.png" group-title="Iran",IRIB Varzesh 1 (Telewebion)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ncdn.telewebion.ir/sport1/live/playlist.m3u8
+#EXTINF:-1 tvg-name="IRIB Varzesh 2 (Telewebion)" tvg-logo="https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/I/m/IRIB_Varzesh_Logo.png" group-title="Iran",IRIB Varzesh 2 (Telewebion)
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ncdn.telewebion.ir/sport2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IRIB1" tvg-name="IRIB TV1 (Sassan Proxy)" tvg-logo="https://i.postimg.cc/ncYbK8X9/download-(9).png" group-title="IRIB",IRIB TV1 (Sassan Proxy)
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
