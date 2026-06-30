@@ -174,10 +174,10 @@ https://streaminglive.co.il:3730/live/raniamranilive.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://live.pars-israel.com/tmp_hls/iptv/index.m3u8
-#EXTINF:-1 tvg-id="ITC?" tvg-name="Itc?" tvg-logo="https://i.postimg.cc/9QFPxTQP/download-(4).jpg" group-title="General",Itc?
+#EXTINF:-1 tvg-id="ITCTV" tvg-name="Itc Tv" tvg-logo="https://i.postimg.cc/9QFPxTQP/download-(4).jpg" group-title="General",Itc Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/9b5be6d9ebdfce62a3eeb49a43cb1479/manifest/video.m3u8
+https://customer-2s5hvw3o3ubwoziv.cloudflarestream.com/d19c1944c7f7b622f97db9b3658e93d9/manifest/video.m3u8
 #EXTINF:-1 tvg-id="ITCTV" tvg-name="Itc Tv" tvg-logo="https://i.postimg.cc/9QFPxTQP/download-(4).jpg" group-title="General",Itc Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -316,15 +316,15 @@ https://onehls.persiana.live/hls/stream.m3u8
 https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YjNRq7/images-(11).jpg",Persiana Sports
 https://edge22.776740.ir.cdn.ir/hls2/persiana.m3u8
-#EXTINF:-1 tvg-name="Persiana Sports 1" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/Persiana-Music-min.png" group-title="Iran",Persiana Sports 1
+#EXTINF:-1 tvg-name="Persiana Sports 1" tvg-logo="https://i.postimg.cc/65YKB356/sport1.png" group-title="Iran",Persiana Sports 1
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8
-#EXTINF:-1 tvg-name="Persiana Sports 2" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/Persiana-Music-min.png" group-title="Iran",Persiana Sports 2
+#EXTINF:-1 tvg-name="Persiana Sports 2" tvg-logo="https://i.postimg.cc/HsSqfhB6/sport2.png" group-title="Iran",Persiana Sports 2
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://pakhshzende.com/pz-hls/?src=https://ggg.hls2.xyz/live/Persiana%20Sports2/playlist.m3u8
-#EXTINF:-1 tvg-name="Persiana Sports 3" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/Persiana-Music-min.png" group-title="Iran",Persiana Sports 3
+#EXTINF:-1 tvg-name="Persiana Sports 3" tvg-logo="https://i.postimg.cc/y6jtZG48/sport3.png" group-title="Iran",Persiana Sports 3
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/Persiana%20Sports3/playlist.m3u8
