@@ -122,6 +122,10 @@ https://moviethls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://spf-cors-onetv-bb3v.cfcrossing.workers.dev/?url=https://ca-rt.onetv.app/GrandCinema/index-0.m3u8
+#EXTINF:-1 tvg-name="Grand Sport" tvg-logo="https://cdn-icons-png.flaticon.com/512/857/857681.png" group-title="Sports",Grand Sport
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/Grand%20Sport/playlist.m3u8
 #EXTINF:-1 tvg-id="GULFMOVIE" tvg-name="Gulf Movie" tvg-logo="https://i.postimg.cc/4N0XT4w0/download.jpg" group-title="Movies",Gulf Movie
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -316,6 +320,10 @@ https://onehls.persiana.live/hls/stream.m3u8
 https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YjNRq7/images-(11).jpg",Persiana Sports
 https://edge22.776740.ir.cdn.ir/hls2/persiana.m3u8
+#EXTINF:-1 tvg-name="Persiana Sports" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/Persiana-Music-min.png" group-title="Sports",Persiana Sports
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://pakhshzende.com/pz-hls/?src=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FPersiana%2520Sports%2Fplaylist.m3u8
 #EXTINF:-1 tvg-name="Persiana Sports 1" tvg-logo="https://i.postimg.cc/65YKB356/sport1.png" group-title="Iran",Persiana Sports 1
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
