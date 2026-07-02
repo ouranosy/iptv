@@ -202,10 +202,6 @@ https://kjhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://khbhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SIMAYEAZADI" tvg-name="Khatereh (Alt)" tvg-logo="https://i.postimg.cc/NFjfhg2h/download-(6).jpg" group-title="General",Khatereh (Alt)
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
 #EXTINF:-1 tvg-id="MAAHTV" tvg-name="Maah Tv" tvg-logo="https://i.postimg.cc/Bn6tNmNW/download.jpg" group-title="General",Maah Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
