@@ -102,7 +102,7 @@ https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20CLAS
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Film2/playlist.m3u8
-#EXTINF:-1 tvg-name="GEM Onyx" tvg-logo="https://i.postimg.cc/PqNYGdHV/IMG-0137.jpg" group-title="Iran",GEM Onyx
+#EXTINF:-1 tvg-name="GEM Onyx" tvg-logo="https://i.postimg.cc/przqdSQ1/IMG-0150.jpg" group-title="Iran",GEM Onyx
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20Gem%20Onyx2/playlist.m3u8
