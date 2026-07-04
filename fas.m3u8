@@ -178,14 +178,6 @@ https://streaminglive.co.il:3730/live/raniamranilive.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://live.pars-israel.com/tmp_hls/iptv/index.m3u8
-#EXTINF:-1 tvg-id="ITCTV" tvg-name="Itc Tv" tvg-logo="https://i.postimg.cc/9QFPxTQP/download-(4).jpg" group-title="General",Itc Tv
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://customer-2s5hvw3o3ubwoziv.cloudflarestream.com/d19c1944c7f7b622f97db9b3658e93d9/manifest/video.m3u8
-#EXTINF:-1 tvg-id="ITCTV" tvg-name="Itc Tv" tvg-logo="https://i.postimg.cc/9QFPxTQP/download-(4).jpg" group-title="General",Itc Tv
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/9b5be6d9ebdfce62a3eeb49a43cb1479/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fitctv.ca
 #EXTINF:-1 tvg-id="ITNTV" tvg-name="Itn Tv" tvg-logo="https://i.postimg.cc/ZKJ6R33G/download-(4).png" group-title="General",Itn Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
