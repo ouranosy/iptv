@@ -121,7 +121,7 @@ https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GRANDCINEMA" tvg-name="Grand Cinema" tvg-logo="https://i.postimg.cc/c127jnmX/download-(1).jpg" group-title="Movies",Grand Cinema
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://spf-cors-onetv-qd00r.cfcorsera.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
+https://pakhshzende.com/pz-hls/?src=https://ggg.hls2.xyz/live/Grand%20Cinema/playlist.m3u8
 #EXTINF:-1 tvg-name="Grand Sport" tvg-logo="https://cdn-icons-png.flaticon.com/512/857/857681.png" group-title="Sports",Grand Sport
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
