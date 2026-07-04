@@ -126,6 +126,10 @@ https://pakhshzende.com/pz-hls/?src=https://ggg.hls2.xyz/live/Grand%20Cinema/pla
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/Grand%20Sport/playlist.m3u8
+#EXTINF:-1 tvg-name="Grand TV" tvg-logo="https://vectorseek.com/wp-content/uploads/2024/02/Grand-TV-Logo-Vector.svg-.png" group-title="Entertainment",Grand TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://pakhshzende.com/pz-hls/?src=https://ggg.hls2.xyz/live/Grand%20TV/playlist.m3u8
 #EXTINF:-1 tvg-id="GULFMOVIE" tvg-name="Gulf Movie" tvg-logo="https://i.postimg.cc/4N0XT4w0/download.jpg" group-title="Movies",Gulf Movie
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
