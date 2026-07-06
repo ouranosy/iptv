@@ -59,7 +59,7 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ir" tvg-name="Channel One" tvg-logo="https://i.postimg.cc/Df1v1V8Q/images.jpg" group-title="Persian",Channel One
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://spf-cors-onetv-qd00r.cfcorsera.workers.dev/?url=https://ca-rt.onetv.app:8443/ChannelOne/index-0.m3u8
+https://spf-onetv-9i4j.cfallinone.workers.dev/?url=https://ca-rt.onetv.app:8443/ChannelOne/index-0.m3u8
 #EXTINF:-1 tvg-id="CLASSICTV" tvg-name="Classic Tv" tvg-logo="https://i.postimg.cc/SKQ5hgGx/classic-tv.jpg" group-title="General",Classic Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -81,8 +81,8 @@ https://rdejhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 #EXTINF:-1, tvg-id="EKRANMOVIES" tvg-name="Ekran Movies" tvg-logo="https://i.postimg.cc/cLDhZ68f/IMG-0138.png" group-title="General",Ekran Movies
-https://spf-cors-onetv-qd00r.cfcorsera.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
-#EXTINF:-1 tvg-id="FARSITV" tvg-name="Farsi Tv" tvg-logo="https://i.postimg.cc/s21n3rKg/IMG-0133.png" group-title="General",Farsi Tv
+https://spf-onetv-9i4j.cfallinone.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
+#EXTINF:-1 tvg-id="FARSITV" tvg-name="Farsi Tv" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="General",Farsi Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://farsitvlive.b-cdn.net/farsitvlive/farsitvlive.m3u8
