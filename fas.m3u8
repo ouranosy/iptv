@@ -98,6 +98,10 @@ https://toonixhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20CLASSIC2/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Entertainment" tvg-logo="https://i.postimg.cc/52kyxw1N/images.jpg" group-title="Entertainment",GEM Entertainment
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Entertainment2/playlist.m3u8
 #EXTINF:-1 tvg-name="GEM Film" tvg-logo="https://i.postimg.cc/6pc591C6/generated-image-a8a4828b.jpg" group-title="Iran",GEM Film
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
