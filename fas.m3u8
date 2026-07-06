@@ -190,6 +190,10 @@ https://streaminglive.co.il:3730/live/raniamranilive.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://live.pars-israel.com/tmp_hls/iptv/index.m3u8
+#EXTINF:-1 tvg-name="ITC TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/ITC-TV.jpg" group-title="Iran",ITC TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/ITC/playlist.m3u8
 #EXTINF:-1 tvg-id="ITNTV" tvg-name="Itn Tv" tvg-logo="https://i.postimg.cc/ZKJ6R33G/download-(4).png" group-title="General",Itn Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
