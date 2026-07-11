@@ -102,10 +102,6 @@ https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20CLAS
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://sassantv.com/proxy.php?url=https%3A%2F%2Fpakhshzende.com%2Fpz-hls%2F%3Fsrc%3Dhttps%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520CLASSIC2%2Fplaylist.m3u8
-#EXTINF:-1 tvg-name="GEM Classic" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemclassic.png" group-title="GEM",GEM Classic
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://m3u.iranvids.com/gem-classic/output.m3u8
 #EXTINF:-1 tvg-name="GEM Entertainment" tvg-logo="https://i.postimg.cc/52kyxw1N/images.jpg" group-title="Entertainment",GEM Entertainment
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -114,18 +110,10 @@ https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Ente
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Film2/playlist.m3u8
-#EXTINF:-1 tvg-name="GEM Film" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemfilm.png" group-title="GEM",GEM Film
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://m3u.iranvids.com/gem-film/output.m3u8
 #EXTINF:-1 tvg-name="GEM Onyx" tvg-logo="https://i.postimg.cc/przqdSQ1/IMG-0150.jpg" group-title="Iran",GEM Onyx
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20Gem%20Onyx2/playlist.m3u8
-#EXTINF:-1 tvg-name="GEM Onyx" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemonyx.png" group-title="GEM",GEM Onyx
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://m3u.iranvids.com/gem-onyx/output.m3u8
 #EXTINF:-1 tvg-name="GEM Sport" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemtv.png" group-title="Iran",GEM Sport
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -134,10 +122,6 @@ https://pakhshzende.com/pz-hls/?src=https://ggg.hls2.xyz/live/GEM%20Sport/playli
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20TV2/playlist.m3u8
-#EXTINF:-1 tvg-name="GEM TV" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemtv.png" group-title="GEM",GEM TV
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://m3u.iranvids.com/gem-tv/output.m3u8
 #EXTINF:-1 tvg-id="GOLDSTAR" tvg-name="Gold Star" tvg-logo="https://i.postimg.cc/DfbgcBH1/luxury-golden-star-logo-symbol-vector-designs-template-elegant-style-black-background-656472-181.jpg" group-title="General",Gold Star
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
