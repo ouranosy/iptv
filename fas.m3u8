@@ -98,6 +98,10 @@ https://toonixhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20CLASSIC2/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Classic" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemclassic.png" group-title="Classic",GEM Classic
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://sassantv.com/proxy.php?url=https%3A%2F%2Fpakhshzende.com%2Fpz-hls%2F%3Fsrc%3Dhttps%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520CLASSIC2%2Fplaylist.m3u8
 #EXTINF:-1 tvg-name="GEM Entertainment" tvg-logo="https://i.postimg.cc/52kyxw1N/images.jpg" group-title="Entertainment",GEM Entertainment
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
