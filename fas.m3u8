@@ -59,7 +59,7 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ir" tvg-name="Channel One" tvg-logo="https://i.postimg.cc/Df1v1V8Q/images.jpg" group-title="Persian",Channel One
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://spf-onetv-9i4j.cfallinone.workers.dev/?url=https://ca-rt.onetv.app:8443/ChannelOne/index-0.m3u8
+https://spf-onetv-9i4j.cfgdwrkr.workers.dev/?url=https://ca-rt.onetv.app:8443/ChannelOne/index-0.m3u8
 #EXTINF:-1 tvg-id="CLASSICTV" tvg-name="Classic Tv" tvg-logo="https://i.postimg.cc/SKQ5hgGx/classic-tv.jpg" group-title="General",Classic Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -81,7 +81,7 @@ https://rdejhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 #EXTINF:-1, tvg-id="EKRANMOVIES" tvg-name="Ekran Movies" tvg-logo="https://i.postimg.cc/cLDhZ68f/IMG-0138.png" group-title="General",Ekran Movies
-https://spf-onetv-9i4j.cfallinone.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
+https://spf-onetv-9i4j.cfgdwrkr.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
 #EXTINF:-1 tvg-id="FARSITV" tvg-name="Farsi Tv" tvg-logo="https://i.postimg.cc/KY52RS3K/IMG-0133.png" group-title="General",Farsi Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -413,9 +413,9 @@ https://slonehls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:-1, tvg-id="T2AMERICA" tvg-name="T2AMERICA" tvg-logo="https://i.postimg.cc/RZ1d5Zsc/download.png" group-title="General",T2 America
-https://spf-onetv-9i4j.cfallinone.workers.dev/?url=https://ca-rt.onetv.app/T2America/index-0.m3u8
+https://spf-onetv-9i4j.cfgdwrkr.workers.dev/?url=https://ca-rt.onetv.app/T2America/index-0.m3u8
 #EXTINF:-1, tvg-id="T2MOVIES" tvg-name="T"MOVIES" tvg-logo="https://i.postimg.cc/wjxyMxxW/download.jpg" group-title="General",T2 Movies
-https://spf-onetv-9i4j.cfallinone.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
+https://spf-onetv-9i4j.cfgdwrkr.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 #EXTINF:-1 tvg-id="T2TV" tvg-name="T2 Tv" tvg-logo="https://i.postimg.cc/DyL3s25S/images-(20).jpg" group-title="General",T2 Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
