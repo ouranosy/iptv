@@ -218,6 +218,10 @@ https://kjhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://khbhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Radio Khatereh" tvg-logo="https://cdn-icons-png.flaticon.com/512/3845/3845739.png" group-title="Radio",Radio Khatereh
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://radio.khatereh.online:5443/LiveApp/streams/jWF37YKCgZ0FSYTR863687974499636.m3u8
 #EXTINF:-1 tvg-id="MAAHTV" tvg-name="Maah Tv" tvg-logo="https://i.postimg.cc/Bn6tNmNW/download.jpg" group-title="General",Maah Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
