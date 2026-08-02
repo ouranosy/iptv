@@ -511,7 +511,7 @@ https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="VARZESH" tvg-name="Varzesh (Telewebion)" tvg-logo="https://i.postimg.cc/Mp5wwkwF/download-(11).jpg" group-title="Sports",Varzesh 
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://atc.hopto.org/iran-IRIB-Varzesh-web/index.fmp4.m3u8?token=22f2f9175d4a0d3b7862643fb737280a9d3ee69b-534704f5c88f5e66a88d77d7d7d3574b-1784932331-1784921531
+https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-name="IRIB Varzesh 1 (Telewebion)" tvg-logo="https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/I/m/IRIB_Varzesh_Logo.png" group-title="Iran",IRIB Varzesh 1 (Telewebion)
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
