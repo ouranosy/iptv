@@ -343,7 +343,7 @@ https://pakhshzende.com/pz-hls/?src=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FPersiana%
 #EXTINF:-1 tvg-name="Persiana Sports 1" tvg-logo="https://i.postimg.cc/65YKB356/sport1.png" group-title="Iran",Persiana Sports 1
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8
+https://edge22.776740.ir.cdn.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-name="Persiana Sports 2" tvg-logo="https://i.postimg.cc/HsSqfhB6/sport2.png" group-title="Iran",Persiana Sports 2
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
