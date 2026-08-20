@@ -97,7 +97,7 @@ https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="GEM Classic" tvg-logo="https://i.postimg.cc/fy2Mf4yw/generated-image-e2378ca7.jpg" group-title="Iran",GEM Classic
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20CLASSIC2/playlist.m3u8
+https://persiran.online/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520CLASSIC2%2Fplaylist.m3u8
 #EXTINF:-1 tvg-name="GEM Classic" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemclassic.png" group-title="Classic",GEM Classic
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -109,7 +109,7 @@ https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Ente
 #EXTINF:-1 tvg-name="GEM Film" tvg-logo="https://i.postimg.cc/6pc591C6/generated-image-a8a4828b.jpg" group-title="Iran",GEM Film
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20Film2/playlist.m3u8
+https://persiran.online/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Film2%2Fplaylist.m3u8
 #EXTINF:-1 tvg-name="GEM Onyx" tvg-logo="https://i.postimg.cc/przqdSQ1/IMG-0150.jpg" group-title="Iran",GEM Onyx
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -121,7 +121,7 @@ https://pakhshzende.com/pz-hls/?src=https://ggg.hls2.xyz/live/GEM%20Sport/playli
 #EXTINF:-1 tvg-name="GEM TV" tvg-logo="https://i.postimg.cc/sfmWP3Hr/IMG-0149.jpg" group-title="Iran",GEM TV
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20GEM%20TV2/playlist.m3u8
+https://persiran.online/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520TV2%2Fplaylist.m3u8
 #EXTINF:-1 tvg-id="GOLDSTAR" tvg-name="Gold Star" tvg-logo="https://i.postimg.cc/DfbgcBH1/luxury-golden-star-logo-symbol-vector-designs-template-elegant-style-black-background-656472-181.jpg" group-title="General",Gold Star
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
