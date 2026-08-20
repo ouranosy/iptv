@@ -117,7 +117,7 @@ https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20Gem%20Onyx
 #EXTINF:-1 tvg-name="GEM Sport" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemtv.png" group-title="Iran",GEM Sport
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://pakhshzende.com/pz-hls/?src=https://ggg.hls2.xyz/live/GEM%20Sport/playlist.m3u8
+https://persiran.online/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Sport2%2Fplaylist.m3u8
 #EXTINF:-1 tvg-name="GEM TV" tvg-logo="https://i.postimg.cc/sfmWP3Hr/IMG-0149.jpg" group-title="Iran",GEM TV
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
