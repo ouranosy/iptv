@@ -81,7 +81,7 @@ https://rdejhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 #EXTINF:-1, tvg-id="EKRANMOVIES" tvg-name="Ekran Movies" tvg-logo="https://i.postimg.cc/cLDhZ68f/IMG-0138.png" group-title="General",Ekran Movies
-https://spf-onetv-9i4j.cfgdwrkr.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
+https://spf-onetv-9i4j.cfworker26.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
 #EXTINF:-1 tvg-id="FARSITV" tvg-name="Farsi Tv" tvg-logo="https://i.postimg.cc/KY52RS3K/IMG-0133.png" group-title="General",Farsi Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -129,7 +129,7 @@ https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GRANDCINEMA" tvg-name="Grand Cinema" tvg-logo="https://i.postimg.cc/c127jnmX/download-(1).jpg" group-title="Movies",Grand Cinema
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://spf-onetv-9i4j.cfgdwrkr.workers.dev/?url=https://ca-rt.onetv.app/GrandCinema/index-0.m3u8
+https://spf-onetv-9i4j.cfworker26.workers.dev/?url=https://ca-rt.onetv.app/GrandCinema/index-0.m3u8
 #EXTINF:-1 tvg-name="Grand Series" tvg-logo="https://i.postimg.cc/LsZ7JpdS/download.png" group-title="Series",Grand Series
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
