@@ -59,7 +59,7 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ir" tvg-name="Channel One" tvg-logo="https://i.postimg.cc/Df1v1V8Q/images.jpg" group-title="Persian",Channel One
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://spf-onetv-9i4j.cfgdwrkr.workers.dev/?url=https://ca-rt.onetv.app:8443/ChannelOne/index-0.m3u8
+https://spf-onetv-9i4j.cfworker26.workers.dev/?url=https://ca-rt.onetv.app/ChannelOne/index-0.m3u8
 #EXTINF:-1 tvg-id="CLASSICTV" tvg-name="Classic Tv" tvg-logo="https://i.postimg.cc/SKQ5hgGx/classic-tv.jpg" group-title="General",Classic Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -113,7 +113,7 @@ https://persiran.online/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR
 #EXTINF:-1 tvg-name="GEM Onyx" tvg-logo="https://i.postimg.cc/przqdSQ1/IMG-0150.jpg" group-title="Iran",GEM Onyx
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/IR%20-%20Gem%20Onyx2/playlist.m3u8
+https://spf-onetv-9i4j.cfworker26.workers.dev/?url=https://ca-rt.onetv.app/GemOnyx/index-0.m3u8
 #EXTINF:-1 tvg-name="GEM Sport" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemtv.png" group-title="Iran",GEM Sport
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
