@@ -206,6 +206,10 @@ https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/ITC/playlist.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Jahannama TV" tvg-logo="https://i.postimg.cc/brV3ZQ25/IMG-0147.jpg" group-title="Persian",Jahannama TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://stream01.gaplication.com/hls/jahannamatvlive/index.m3u8
 #EXTINF:-1 tvg-id="KALEMEHTV" tvg-name="Kalemeh Tv" tvg-logo="https://i.postimg.cc/76v2yTwV/download-(5).jpg" group-title="General",Kalemeh Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
