@@ -114,6 +114,10 @@ https://persiran.online/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://persiran.online/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520Gem%2520Onyx2%2Fplaylist.m3u8
+#EXTINF:-1 tvg-name="GEM Series 2" tvg-logo="https://i.postimg.cc/F1kcZL0L/IMG-0164.jpg" group-title="GEM",GEM Series 2
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://persiran.online/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Series%25202%2Fplaylist.m3u8
 #EXTINF:-1 tvg-name="GEM Sport" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemtv.png" group-title="Iran",GEM Sport
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
