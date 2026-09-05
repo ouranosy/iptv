@@ -250,7 +250,7 @@ https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://mellihls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MIHANTV" tvg-name="Mihan Tv" tvg-logo="https://i.postimg.cc/Bn6tNmNW/download.jpg" group-title="General",Mihan Tv
+#EXTINF:-1 tvg-id="MIHANTV" tvg-name="Mihan Tv" tvg-logo="https://i.postimg.cc/PJ8hXN0z/IMG-0167.jpg" group-title="General",Mihan Tv
 https://iptv.mihantv.com/mihantv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTC" tvg-name="Mtc" tvg-logo="https://i.postimg.cc/8zK4nnSw/images-(2).jpg" group-title="General",Mtc
 #EXTVLCOPT:network-caching=5000
