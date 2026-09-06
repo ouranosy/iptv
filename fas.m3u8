@@ -230,7 +230,7 @@ https://kjhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://khbhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Radio Khatereh" tvg-logo="https://cdn-icons-png.flaticon.com/512/3845/3845739.png" group-title="Radio",Radio Khatereh
+#EXTINF:-1 tvg-name="Radio Khatereh" tvg-logo="https://cdn-icons-png.flaticon.com/512/3845/3845739.png" group-title="Radio",Khatereh
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://radio.khatereh.online:5443/LiveApp/streams/jWF37YKCgZ0FSYTR863687974499636.m3u8
@@ -260,6 +260,8 @@ https://mtchls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://nethls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Nima Tv" tvg-logo="https://i.postimg.cc/SxdfRHxy/IMG-0170.jpg" group-title="Iran",Nima Tv
+https://nimatv.loclx.io/nimatv/index.m3u8
 #EXTINF:-1 tvg-id="NOVINTV" tvg-name="Novin Tv" tvg-logo="https://i.postimg.cc/RCdHRJ9L/images-(3).jpg" group-title="General",Novin Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
