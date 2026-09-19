@@ -59,7 +59,7 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ir" tvg-name="Channel One" tvg-logo="https://i.postimg.cc/Df1v1V8Q/images.jpg" group-title="Persian",Channel One
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://spf-onetv-9i4j.cfworker26.workers.dev/?url=https://ca-rt.onetv.app/ChannelOne/index-0.m3u8
+https://livestream.5centscdn.com/channelonehd/0d0dd9d8b4933ea5f0a3a9495707c004.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CLASSICTV" tvg-name="Classic Tv" tvg-logo="https://i.postimg.cc/SKQ5hgGx/classic-tv.jpg" group-title="General",Classic Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
