@@ -105,11 +105,11 @@ https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Fliv
 #EXTINF:-1 tvg-name="GEM Entertainment" tvg-logo="https://i.postimg.cc/52kyxw1N/images.jpg" group-title="Entertainment",GEM Entertainment
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Entertainment_%2Fplaylist.m3u8
+https://ib.abntv.live/hls/gement.m3u8
 #EXTINF:-1 tvg-name="GEM Film" tvg-logo="https://i.postimg.cc/6pc591C6/generated-image-a8a4828b.jpg" group-title="Iran",GEM Film
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://persiran.online/codes/spf-aparat.php?url=https%3A%2F%2Fgg.hls2.xyz%2Flive%2FIR%2520-%2520GEM%2520Film2%2Fplaylist.m3u8
+https://ib.abntv.live/hls/gemfilm.m3u8
 #EXTINF:-1 tvg-name="GEM Onyx" tvg-logo="https://i.postimg.cc/przqdSQ1/IMG-0150.jpg" group-title="Iran",GEM Onyx
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -214,6 +214,10 @@ https://kjhls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://khbhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KHANEHONARMANDAN" tvg-name="KHANE HONARMANDAN" group-title="General",KANE HONARMANDAN
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ib.abntv.live/hls/khh.m3u8
 #EXTINF:-1 tvg-name="Radio Khatereh" tvg-logo="https://cdn-icons-png.flaticon.com/512/3845/3845739.png" group-title="Radio",Khatereh
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
