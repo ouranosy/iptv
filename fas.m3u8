@@ -113,6 +113,10 @@ https://ib.abntv.live/hls/gement.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://ib.abntv.live/hls/gemfilm.m3u8
+#EXTINF:-1 tvg-name="GEM Nature" group-title="Iran",GEM Nature
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://ib.abntv.live/hls/gemnat.m3u8
 #EXTINF:-1 tvg-name="GEM Onyx" tvg-logo="https://i.postimg.cc/przqdSQ1/IMG-0150.jpg" group-title="Iran",GEM Onyx
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
