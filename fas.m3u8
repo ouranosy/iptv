@@ -82,10 +82,6 @@ https://rdejhls.wns.live/hls/stream.m3u8
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 #EXTINF:-1, tvg-id="EKRANMOVIES" tvg-name="Ekran Movies" tvg-logo="https://i.postimg.cc/cLDhZ68f/IMG-0138.png" group-title="General",Ekran Movies
 https://spf-onetv-9i4j.cfbanana.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
-#EXTINF:-1 tvg-id="FARSITV" tvg-name="Farsi Tv" tvg-logo="https://i.postimg.cc/KY52RS3K/IMG-0133.png" group-title="General",Farsi Tv
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://farsitvlive.b-cdn.net/farsitvlive/farsitvlive.m3u8
 #EXTINF:-1 tvg-id="FX1" tvg-name="Fx1" tvg-logo="https://i.postimg.cc/cH3G4Yhk/IMG-0134.png" group-title="General",Fx1
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -145,18 +141,6 @@ https://moviethls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://stream.cisk.tech/gulfmovie/index.m3u8
-#EXTINF:-1 tvg-id="HIGHVISION" tvg-name="HIGHVISION" group-title="General",HIGHVISION
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HOODHOODFARSITV" tvg-name="Hood Hood Farsi Tv" tvg-logo="https://i.postimg.cc/qBnF7JJH/hodhod.jpg" group-title="General",Hood Hood Farsi Tv
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://northtelecom.b-cdn.net/hodhodtv/1_1001_Video.m3u8
-#EXTINF:-1 tvg-id="HOMEPLUS" tvg-name="Home Plus" tvg-logo="https://i.postimg.cc/t4LP7jCy/images.png" group-title="General",Home Plus
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ICCPLUS" tvg-name="Icc Plus" tvg-logo="https://i.postimg.cc/9MxQRdtr/icc2b.jpg" group-title="General",Icc Plus
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
@@ -189,10 +173,6 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://hls.irannrtv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="IRANPRESS" tvg-name="Iran Press" tvg-logo="https://i.postimg.cc/PxqMPw00/download-(2).jpg" group-title="News",Iran Press
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="IRANTVISRAEL" tvg-name="Iran Tv Israel" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="News",Iran Tv Israel
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
