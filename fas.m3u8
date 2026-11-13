@@ -145,6 +145,10 @@ https://moviethls.wns.live/hls/stream.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 https://stream.cisk.tech/gulfmovie/index.m3u8
+#EXTINF:-1 tvg-id="HIGHVISION" tvg-name="HIGHVISION" group-title="General",HIGHVISION
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HOODHOODFARSITV" tvg-name="Hood Hood Farsi Tv" tvg-logo="https://i.postimg.cc/qBnF7JJH/hodhod.jpg" group-title="General",Hood Hood Farsi Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
