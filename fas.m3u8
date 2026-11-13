@@ -148,7 +148,7 @@ https://stream.cisk.tech/gulfmovie/index.m3u8
 #EXTINF:-1 tvg-id="HOODHOODFARSITV" tvg-name="Hood Hood Farsi Tv" tvg-logo="https://i.postimg.cc/qBnF7JJH/hodhod.jpg" group-title="General",Hood Hood Farsi Tv
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://northtelecom.b-cdn.net/hodhodtv.m3u8
+https://northtelecom.b-cdn.net/hodhodtv/1_1001_Video.m3u8
 #EXTINF:-1 tvg-id="HOMEPLUS" tvg-name="Home Plus" tvg-logo="https://i.postimg.cc/t4LP7jCy/images.png" group-title="General",Home Plus
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
