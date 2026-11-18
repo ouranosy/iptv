@@ -45,6 +45,8 @@ https://spf-onetv-9i4j.cfbanana.workers.dev/?url=https://ca-rt.onetv.app/EkranMo
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Fx2" tvg-logo="https://i.postimg.cc/kMtVHZnD/fx2.jpg" group-title="General",Fx2
 https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="GEM Classic" tvg-logo="https://i.postimg.cc/fy2Mf4yw/generated-image-e2378ca7.jpg" group-title="Iran",GEM Classic
+https://ib.abntv.live/hls/gemclassic.m3u8
 #EXTINF:-1 tvg-name="GEM Comedy" group-title="General",GEM Comedy
 https://ib.abntv.live/hls/gemcom.m3u8
 #EXTINF:-1 tvg-name="GEM Drama" tvg-logo="https://i.postimg.cc/NjMWv2Zv/IMG-0162.png" group-title="Classic",GEM Drama
