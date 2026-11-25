@@ -145,7 +145,7 @@ https://stream.cisk.tech/gulfmovie/index.m3u8
 #EXTINF:-1 tvg-id="ICCPLUS" tvg-name="Icc Plus" tvg-logo="https://i.postimg.cc/9MxQRdtr/icc2b.jpg" group-title="General",Icc Plus
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
-https://icchls.wns.live/hls/stream.m3u8
+https://iccnt.b-cdn.net/ICC/Video.m3u8
 #EXTINF:-1 tvg-id="ICNET2" tvg-name="Icnet 2" tvg-logo="https://i.postimg.cc/0NKkxWNw/download.png" group-title="General",Icnet 2
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
