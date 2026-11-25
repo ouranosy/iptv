@@ -72,7 +72,7 @@ https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Gulf Movie" tvg-logo="https://i.postimg.cc/4N0XT4w0/download.jpg" group-title="Movies",Gulf Movie
 https://stream.cisk.tech/gulfmovie/index.m3u8
 #EXTINF:-1 tvg-name="Icc Plus" tvg-logo="https://i.postimg.cc/9MxQRdtr/icc2b.jpg" group-title="General",Icc Plus
-https://icchls.wns.live/hls/stream.m3u8
+https://iccnt.b-cdn.net/ICC/Video.m3u8
 #EXTINF:-1 tvg-name="Icnet 2" tvg-logo="https://i.postimg.cc/0NKkxWNw/download.png" group-title="General",Icnet 2
 https://icnet2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Icnet 3" tvg-logo="https://i.postimg.cc/05088J9S/download-(1).png" group-title="General",Icnet 3
