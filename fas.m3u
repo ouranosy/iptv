@@ -210,7 +210,7 @@ https://spf-onetv-9i4j.mycfwrkr.workers.dev/?url=https://ca-rt.onetv.app/T2Ameri
 #EXTINF:-1 tvg-name="T2 International" tvg-logo="https://i.postimg.cc/RZ1d5Zsc/download.png" group-title="General",T2 International
 https://spf-onetv-9i4j.mycfwrkr.workers.dev/?url=https://ca-rt.onetv.app/T2International/index-0.m3u8
 #EXTINF:-1 tvg-name="T2 Movies" tvg-logo="https://i.postimg.cc/wjxyMxxW/download.jpg" group-title="General",T2 Movies
-https://spf-onetv-9i4j.mycfwrkr.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
+https://spf-onetv-9i4j.cfbanana.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 #EXTINF:-1 tvg-name="T2 Tv" tvg-logo="https://i.postimg.cc/DyL3s25S/images-(20).jpg" group-title="General",T2 Tv
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Tapesh Tv" tvg-logo="https://i.postimg.cc/t4pwxFYv/images-(21).jpg" group-title="General",Tapesh Tv
